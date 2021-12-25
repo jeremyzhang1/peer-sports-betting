@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# Peer to Peer Sports Betting Dapp
+
+## About
+A project for the [Harmony University Hackathon](https://taikai.network/en/harmonyprotocol/hackathons/hackthefuture/overview).
+
+Made with ♥ by Jeremy, Albert, Charles, and Ash
+
+## Getting Started
+
+To run the dapp on the web, go to FINAL PROJECT LINK TBD.
+
+To run locally, first install all dependencies by running
+
+`npm install`
+
+To deploy the smart contracts, run
+
+`truffle compile`
+
+`truffle migrate --reset`
+
+This project uses [Truffle](https://trufflesuite.com/truffle/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
