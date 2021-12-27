@@ -3,7 +3,7 @@
 ## About
 A project for the [Harmony University Hackathon](https://taikai.network/en/harmonyprotocol/hackathons/hackthefuture/overview).
 
-Made with ♥ by Jeremy, Albert, Charles, and Ash
+Made with ❤ by Jeremy, Albert, Charles, and Ash
 
 ## Getting Started
 
