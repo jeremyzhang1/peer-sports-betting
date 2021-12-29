@@ -34,11 +34,12 @@ contract Betting {
         return false;
     }
 
-    function bet(uint8 _teamSelected) public payable {
+    function bet(uint8 _teamSelected, uint _amount) public payable {
         // Check that the player (person calling this contract) does not exist (meaning that person hasn't bet yet)
         require(!checkPlayerExists(msg.sender));
 
         require(msg.value >= minimumBet);
+        // require(msg.value == _amount);
 
         playerInfo[msg.sender].amountBet = msg.value;
         playerInfo[msg.sender].teamSelected = _teamSelected;
@@ -52,6 +53,7 @@ contract Betting {
         else {
             totalBetsTwo += msg.value;
         }
+
     }
 
     function distributePrizes(uint16 teamWinner) public {
@@ -108,7 +110,7 @@ contract Betting {
         return totalBetsOne;
     }
 
-    function AmountTwo() public view returns (uint) {
+    function AmountTwo() public view returns(uint) {
         return totalBetsTwo;
     }
 }
