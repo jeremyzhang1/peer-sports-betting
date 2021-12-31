@@ -2,6 +2,8 @@
 pragma solidity = 0.5.0;
 
 contract Betting {
+    string public name = "Peer to Peer Basketball Betting App";
+    address public owner;
     uint public minimumBet;
     uint public totalBetsOne;
     uint public totalBetsTwo;
@@ -23,6 +25,7 @@ contract Betting {
     constructor() public {
         // minimumBet is 1e14 wei corresponding to 0.0001 ether
         minimumBet = 1e14;
+        owner = msg.sender;
     }
 
     function checkPlayerExists(address player) public view returns(bool) {
