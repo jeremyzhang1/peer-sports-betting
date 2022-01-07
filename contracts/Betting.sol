@@ -45,8 +45,20 @@ contract Betting {
         // TODO: Populate the games mapping here
     }
 
-    function setGames(uint[] memory new_game_ids) public {
+    function setGameIds(uint[] memory new_game_ids) public {
         game_ids = new_game_ids;
+    }
+
+    function constructGames() public {
+        // Enforce only the deployer/owner of the contract can call this function.
+        // This is important because it overwrites the games map, ex: it can reset each Game struct to have its variables reset or worse 
+        require(msg.sender == owner, "caller must be the owner");
+
+        for (uint i = 0; i < game_ids.length; i++) {
+            // Leave playerInfo and players attributes empty by not including them in Game constructor
+            games[game_ids[i]] = Game({totalBetsHome:0, totalBetsAway:0, takenPlace:false, players: new address payable[](0)}); 
+            // games[game_ids[i]] = Game(0, 0, false); 
+        }
     }
 
     function checkPlayerExists(address player, uint _gameID) public view returns(bool) {
