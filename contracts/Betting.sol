@@ -35,37 +35,21 @@ contract Betting {
 
     // Mapping of games
     mapping(uint => Game) public games;
-    uint[] game_ids;
 
-    constructor(uint[] memory new_game_ids) public {
+    constructor(uint[] memory _new_game_ids) public {
         // minimumBet is 1e14 wei corresponding to 0.0001 ether
         minimumBet = 1e14;
         owner = msg.sender;
 
-        game_ids = new_game_ids;
-        // TODO: Populate the games mapping here
-    }
-
-    function setGameIds(uint[] memory new_game_ids) public {
-        game_ids = new_game_ids;
-    }
-
-    function constructGames() public {
-        // Enforce only the deployer/owner of the contract can call this function.
-        // This is important because it overwrites the games map, ex: it can reset each Game struct to have its variables reset or worse 
-        require(msg.sender == owner, "caller must be the owner");
-
-        for (uint i = 0; i < game_ids.length; i++) {
+        for (uint i = 0; i < _new_game_ids.length; i++) {
             // Leave playerInfo and players attributes empty by not including them in Game constructor
-            games[game_ids[i]] = Game({totalBetsHome:190, totalBetsAway:20, takenPlace:false, players: new address payable[](0)}); 
-            // We know that the below line of code is reached and executed
-            game_ids = [4,2,0];
+            games[_new_game_ids[i]] = Game(0, 0, false, new address payable[](0));
         }
     }
 
-    function checkPlayerExists(address player, uint _gameID) public view returns(bool) {
+    function checkPlayerExists(address _player, uint _gameID) public view returns(bool) {
         for (uint i = 0; i < games[_gameID].players.length; i++) {
-            if (games[_gameID].players[i] == player) {
+            if (games[_gameID].players[i] == _player) {
                 return true;
             }
         }
@@ -93,7 +77,7 @@ contract Betting {
 
     }
 
-    function distributePrizes(uint16 teamWinner, uint _gameID) public {
+    function distributePrizes(uint16 _teamWinner, uint _gameID) public {
         // Enforce only the deployer/owner of the contract can call this function
         require(msg.sender == owner, "caller must be the owner");
 
@@ -110,14 +94,14 @@ contract Betting {
             address payable playerAddress = games[_gameID].players[i];
 
             // If the player bet on the winning team, we add that player's address to the winners array
-            if (games[_gameID].playerInfo[playerAddress].teamSelected == teamWinner) {
+            if (games[_gameID].playerInfo[playerAddress].teamSelected == _teamWinner) {
                 winners[count] = playerAddress;
                 count++;
             } 
         }
 
         // Define which bet sum is the winner and which is the loser
-        if (teamWinner == 1) {
+        if (_teamWinner == 1) {
             LoserBet = games[_gameID].totalBetsAway;
             WinnerBet = games[_gameID].totalBetsHome;
         }
