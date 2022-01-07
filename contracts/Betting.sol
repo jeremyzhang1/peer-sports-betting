@@ -35,6 +35,7 @@ contract Betting {
 
     // Mapping of games
     mapping(uint => Game) public games;
+    uint[] game_ids;
 
     constructor() public {
         // minimumBet is 1e14 wei corresponding to 0.0001 ether
@@ -42,6 +43,10 @@ contract Betting {
         owner = msg.sender;
 
         // TODO: Populate the games mapping here
+    }
+
+    function setGames(uint[] memory new_game_ids) public {
+        game_ids = new_game_ids;
     }
 
     function checkPlayerExists(address player, uint _gameID) public view returns(bool) {
