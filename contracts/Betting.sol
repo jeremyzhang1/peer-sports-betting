@@ -57,7 +57,9 @@ contract Betting {
 
         for (uint i = 0; i < game_ids.length; i++) {
             // Leave playerInfo and players attributes empty by not including them in Game constructor
-            games[game_ids[i]] = Game({totalBetsHome:0, totalBetsAway:0, takenPlace:false, players: new address payable[](0)}); 
+            games[game_ids[i]] = Game({totalBetsHome:190, totalBetsAway:20, takenPlace:false, players: new address payable[](0)}); 
+            // We know that the below line of code is reached and executed
+            game_ids = [4,2,0];
         }
     }
 
