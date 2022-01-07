@@ -75,7 +75,8 @@ contract Betting {
     }
 
     function distributePrizes(uint16 teamWinner, uint _gameID) public {
-        // TODO: Enforce only the deployer/owner of the contract can call this function
+        // Enforce only the deployer/owner of the contract can call this function
+        require(msg.sender == owner, "caller must be the owner");
 
         // Create a temporary in memory array with fixed size of 1000 to store the winners, so there can be at most 1000 winners
         address payable[1000] memory winners;
