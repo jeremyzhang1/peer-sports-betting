@@ -37,11 +37,12 @@ contract Betting {
     mapping(uint => Game) public games;
     uint[] game_ids;
 
-    constructor() public {
+    constructor(uint[] memory new_game_ids) public {
         // minimumBet is 1e14 wei corresponding to 0.0001 ether
         minimumBet = 1e14;
         owner = msg.sender;
 
+        game_ids = new_game_ids;
         // TODO: Populate the games mapping here
     }
 
@@ -57,7 +58,6 @@ contract Betting {
         for (uint i = 0; i < game_ids.length; i++) {
             // Leave playerInfo and players attributes empty by not including them in Game constructor
             games[game_ids[i]] = Game({totalBetsHome:0, totalBetsAway:0, takenPlace:false, players: new address payable[](0)}); 
-            // games[game_ids[i]] = Game(0, 0, false); 
         }
     }
 

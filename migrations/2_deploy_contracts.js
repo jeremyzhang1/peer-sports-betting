@@ -1,6 +1,7 @@
 const Betting = artifacts.require('Betting')
 
 module.exports = async function(deployer) {
-    await deployer.deploy(Betting)
+    let game_ids = [1, 2, 3];
+		await deployer.deploy(Betting, { arguments: [game_ids] });
     const betting = await Betting.deployed()
 }
