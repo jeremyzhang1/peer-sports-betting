@@ -2,6 +2,7 @@ import getWeb3 from './utils/getWeb3';
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Web3 from 'web3';
 
 
 
@@ -17,33 +18,38 @@ class App extends Component {
   }
 
   componentDidMount() {
-    getWeb3.then(results => {
-      /*After getting web3, we save the informations of the web3 user by
-      editing the state variables of the component */
-      results.web3.eth.getAccounts( (error,acc) => {
-        this.setState({
-          address: acc[0],
-          web3: results.web3
-        });
-        console.log("blahf sdajsfdj");
-      });
-    }).catch( () => {
-      //If no web3 provider was found, log it in the console
-      console.log('Error finding web3.')
-    })
+    this.loadWeb3();
+    this.loadUserData();
   }
+
+  async loadWeb3() {
+    if (window.ethereum) {
+      window.web3 = new Web3(window.ethereum)
+      await window.ethereum.enable()
+    }
+    else if (window.web3) {
+      window.web3 = new Web3(window.web3.currentProvider)
+    }
+    else {
+      window.alert('Non-Ethereum browser detected. You should consider trying MetaMask!')
+    }
+  }
+
+  async loadUserData() {
+    const accounts = await Web3.eth.getAccounts();
+    console.log("check account");
+    this.setState({ address: accounts[0] });
+    console.log("address state set");
+  }
+
   render() {
     return (
       <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Blockchain Basketball!</p>
-      </header>
-      <div>
-          <p>Welcome to Blockchain Basketball! <br/>
-          Your Eth Wallet address is {this.state.address}</p>
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <p>Blockchain Basketball! {this.state.address} blah</p>
+        </header>
       </div>
-    </div>
     )
   }
 }
