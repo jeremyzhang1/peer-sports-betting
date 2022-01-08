@@ -16,6 +16,22 @@ class App extends Component {
     };
   }
 
+  componentDidMount() {
+    getWeb3.then(results => {
+      /*After getting web3, we save the informations of the web3 user by
+      editing the state variables of the component */
+      results.web3.eth.getAccounts( (error,acc) => {
+        this.setState({
+          address: acc[0],
+          web3: results.web3
+        });
+        console.log("blahf sdajsfdj");
+      });
+    }).catch( () => {
+      //If no web3 provider was found, log it in the console
+      console.log('Error finding web3.')
+    })
+  }
   render() {
     return (
       <div className="App">
@@ -23,6 +39,10 @@ class App extends Component {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Blockchain Basketball!</p>
       </header>
+      <div>
+          <p>Welcome to Blockchain Basketball! <br/>
+          Your Eth Wallet address is {this.state.address}</p>
+      </div>
     </div>
     )
   }
