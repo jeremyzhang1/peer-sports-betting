@@ -1,8 +1,9 @@
-import getWeb3 from './utils/getWeb3';
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Web3 from 'web3';
+import Betting from './contractCode/Betting.json';
+import Migrations from './contractCode/Migrations.json';
 
 
 
@@ -14,6 +15,7 @@ class App extends Component {
     this.state = {
       web3 : '',
       address: '',
+      betting: {}
     };
   }
 
@@ -36,10 +38,27 @@ class App extends Component {
   }
 
   async loadUserData() {
-    const accounts = await Web3.eth.getAccounts();
+    var accounts;
+    const web3 = window.web3;
+    accounts = await web3.eth.getAccounts().then();
     console.log("check account");
-    this.setState({ address: accounts[0] });
+    console.log(typeof accounts);
+    this.setState({ address : accounts });
     console.log("address state set");
+    console.log(this.state.address);
+    
+    const networkId = await web3.eth.net.getId();
+    console.log(networkId);
+
+    const bettingData = Betting.networks[networkId];
+    if (bettingData) {
+      const betting = web3.eth.Contract(Betting.abi, bettingData.address);
+      this.setState({ betting });
+      // still a bit confused what to send as an arg into methods.bet in the line below
+      // let bet = await betting.methods.bet()
+      
+    }
+
   }
 
   render() {
