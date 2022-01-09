@@ -45,11 +45,13 @@ module.exports = {
 		// tab if you use this network and you must also set the `host`, `port` and `network_id`
 		// options below to some value.
 		//
+		// Albert: use this network for non-wsl development with `truffle migrate --reset`
 		development: {
 			host: '172.20.112.1', // Localhost (default: none)
 			port: 7545, // Standard Ethereum port (default: none)
 			network_id: '*', // Any network (default: none)
 		},
+		// Albert: use this network for wsl development with `truffle migrate --network wsl --reset`
 		wsl: {
 			host: '172.17.80.1', // Localhost (default: none)
 			port: 7545, // Standard Ethereum port (default: none)
