@@ -24,6 +24,9 @@
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
 module.exports = {
+	// The default output directory for compiled contracts is ./build/contracts relative to the project root. This can be changed with the contracts_build_directory key.
+	contracts_build_directory: './src/contractCode',
+
 	/**
 	 * Networks define how you connect to your ethereum client and let you set the
 	 * defaults web3 uses to send transactions. If you don't specify one truffle
@@ -42,7 +45,7 @@ module.exports = {
 		// options below to some value.
 		//
 		development: {
-			host: '172.31.96.1', // Localhost (default: none)
+			host: '172.17.80.1', // Localhost (default: none)
 			port: 7545, // Standard Ethereum port (default: none)
 			network_id: '*', // Any network (default: none)
 		},
