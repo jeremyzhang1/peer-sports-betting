@@ -96,14 +96,12 @@ contract Betting {
         /*check if there actually are any bets on this game, if there are no bets, just skip all of this and set game as "taken place"
         without needing to take any action */
         if (!(HomeAmount == 0 && AwayAmount == 0)) {
-
-            if (HomeAmount == 0){
+            if (HomeAmount == 0) {
                 _teamWinner = 2;
-            }
-            else if (AwayAmount == 0){
+            } else if (AwayAmount == 0) {
                 _teamWinner = 1;
             }
-            
+
             // We loop through the player array to find the players that correctly bet on the winning team
             for (uint256 i = 0; i < games[_gameID].players.length; i++) {
                 address payable playerAddress = games[_gameID].players[i];
