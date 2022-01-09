@@ -11,4 +11,3 @@ for i in range(8):
         json.dump(data, f, sort_keys=True, indent=4)
 
 print('done')
-
