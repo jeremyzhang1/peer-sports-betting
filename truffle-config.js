@@ -25,6 +25,7 @@
 
 module.exports = {
 	// The default output directory for compiled contracts is ./build/contracts relative to the project root. This can be changed with the contracts_build_directory key.
+	// Changed default output directory for compiled contracts to be in src so we don't need to copy and paste
 	contracts_build_directory: './src/contractCode',
 
 	/**
