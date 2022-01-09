@@ -1,0 +1,2911 @@
+{
+    "data": [
+        {
+            "date": "2022-01-09T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "home_team_score": 0,
+            "id": 474014,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "id": 5,
+                "name": "Bulls"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-10T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "home_team_score": 0,
+            "id": 474019,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "id": 6,
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-11T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "id": 19,
+                "name": "Pelicans"
+            },
+            "home_team_score": 0,
+            "id": 474022,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "id": 18,
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-12T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "home_team_score": 0,
+            "id": 474031,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-14T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "home_team_score": 0,
+            "id": 474048,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "id": 11,
+                "name": "Rockets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-15T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "home_team_score": 0,
+            "id": 474052,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "id": 25,
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-17T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "id": 1,
+                "name": "Hawks"
+            },
+            "home_team_score": 0,
+            "id": 474068,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "6:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "id": 17,
+                "name": "Bucks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-17T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "id": 14,
+                "name": "Lakers"
+            },
+            "home_team_score": 0,
+            "id": 474073,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "id": 29,
+                "name": "Jazz"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-18T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "id": 20,
+                "name": "Knicks"
+            },
+            "home_team_score": 0,
+            "id": 474075,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "id": 18,
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-19T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "id": 23,
+                "name": "76ers"
+            },
+            "home_team_score": 0,
+            "id": 474081,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-19T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "home_team_score": 0,
+            "id": 474087,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "id": 9,
+                "name": "Pistons"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-20T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "home_team_score": 0,
+            "id": 474090,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "id": 24,
+                "name": "Suns"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-21T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "id": 23,
+                "name": "76ers"
+            },
+            "home_team_score": 0,
+            "id": 474095,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-21T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "id": 10,
+                "name": "Warriors"
+            },
+            "home_team_score": 0,
+            "id": 474102,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "id": 11,
+                "name": "Rockets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-22T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "id": 6,
+                "name": "Cavaliers"
+            },
+            "home_team_score": 0,
+            "id": 474104,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-23T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "home_team_score": 0,
+            "id": 474113,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "3:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-25T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "id": 25,
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 0,
+            "id": 474128,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "id": 18,
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-26T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "home_team_score": 0,
+            "id": 474133,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-28T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "id": 17,
+                "name": "Bucks"
+            },
+            "home_team_score": 0,
+            "id": 474151,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "id": 20,
+                "name": "Knicks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-29T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "id": 16,
+                "name": "Heat"
+            },
+            "home_team_score": 0,
+            "id": 474157,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "id": 28,
+                "name": "Raptors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-30T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "home_team_score": 0,
+            "id": 474162,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "1:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-31T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "id": 11,
+                "name": "Rockets"
+            },
+            "home_team_score": 0,
+            "id": 474172,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "id": 10,
+                "name": "Warriors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-01T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "id": 18,
+                "name": "Timberwolves"
+            },
+            "home_team_score": 0,
+            "id": 474180,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "id": 8,
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-02T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "home_team_score": 0,
+            "id": 474184,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-04T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "id": 27,
+                "name": "Spurs"
+            },
+            "home_team_score": 0,
+            "id": 474199,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "id": 11,
+                "name": "Rockets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-05T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "home_team_score": 0,
+            "id": 474208,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-06T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "home_team_score": 0,
+            "id": 474217,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "6:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-07T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "home_team_score": 0,
+            "id": 474222,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "id": 16,
+                "name": "Heat"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-08T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "id": 15,
+                "name": "Grizzlies"
+            },
+            "home_team_score": 0,
+            "id": 474226,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-12T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "home_team_score": 0,
+            "id": 474260,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-14T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "id": 8,
+                "name": "Nuggets"
+            },
+            "home_team_score": 0,
+            "id": 474270,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "9:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-15T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "id": 24,
+                "name": "Suns"
+            },
+            "home_team_score": 0,
+            "id": 474281,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-16T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "id": 12,
+                "name": "Pacers"
+            },
+            "home_team_score": 0,
+            "id": 474286,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-09T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "id": 29,
+                "name": "Jazz"
+            },
+            "home_team_score": 0,
+            "id": 474398,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "id": 25,
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-11T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "id": 19,
+                "name": "Pelicans"
+            },
+            "home_team_score": 0,
+            "id": 474407,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-16T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "id": 10,
+                "name": "Warriors"
+            },
+            "home_team_score": 0,
+            "id": 474450,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-18T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "id": 3,
+                "name": "Nets"
+            },
+            "home_team_score": 0,
+            "id": 474460,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "id": 25,
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-23T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "id": 14,
+                "name": "Lakers"
+            },
+            "home_team_score": 0,
+            "id": 474499,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "id": 23,
+                "name": "76ers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-26T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "id": 25,
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 0,
+            "id": 474521,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "id": 11,
+                "name": "Rockets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-27T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "id": 3,
+                "name": "Nets"
+            },
+            "home_team_score": 0,
+            "id": 474526,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-28T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "id": 28,
+                "name": "Raptors"
+            },
+            "home_team_score": 0,
+            "id": 474536,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-30T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "home_team_score": 0,
+            "id": 474551,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "id": 1,
+                "name": "Hawks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-01T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "id": 8,
+                "name": "Nuggets"
+            },
+            "home_team_score": 0,
+            "id": 474567,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "9:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "id": 18,
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-02T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "id": 20,
+                "name": "Knicks"
+            },
+            "home_team_score": 0,
+            "id": 474571,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "1:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "id": 6,
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-03T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "id": 12,
+                "name": "Pacers"
+            },
+            "home_team_score": 0,
+            "id": 474578,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "5:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "id": 9,
+                "name": "Pistons"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-03T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "home_team_score": 0,
+            "id": 474584,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "9:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "id": 10,
+                "name": "Warriors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-05T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "home_team_score": 0,
+            "id": 474590,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "id": 6,
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-05T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "id": 24,
+                "name": "Suns"
+            },
+            "home_team_score": 0,
+            "id": 474597,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "id": 14,
+                "name": "Lakers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-06T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "id": 9,
+                "name": "Pistons"
+            },
+            "home_team_score": 0,
+            "id": 474599,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-07T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "id": 8,
+                "name": "Nuggets"
+            },
+            "home_team_score": 0,
+            "id": 474610,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "9:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "id": 15,
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-08T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "id": 5,
+                "name": "Bulls"
+            },
+            "home_team_score": 0,
+            "id": 474617,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-10T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "id": 15,
+                "name": "Grizzlies"
+            },
+            "home_team_score": 0,
+            "id": 474631,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-04-10T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "id": 23,
+                "name": "76ers"
+            },
+            "home_team_score": 0,
+            "id": 474636,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "id": 9,
+                "name": "Pistons"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-03T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "id": 10,
+                "name": "Warriors"
+            },
+            "home_team_score": 115,
+            "id": 473964,
+            "period": 4,
+            "postseason": false,
+            "season": 2021,
+            "status": "Final",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "id": 16,
+                "name": "Heat"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "date": "2022-01-08T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "id": 12,
+                "name": "Pacers"
+            },
+            "home_team_score": 125,
+            "id": 474003,
+            "period": 4,
+            "postseason": false,
+            "season": 2021,
+            "status": "Final",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "id": 29,
+                "name": "Jazz"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "date": "2022-01-09T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "home_team_score": 0,
+            "id": 474009,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "3:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "id": 1,
+                "name": "Hawks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-10T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "home_team_score": 0,
+            "id": 474017,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "id": 17,
+                "name": "Bucks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-11T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "home_team_score": 0,
+            "id": 474024,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-12T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "id": 12,
+                "name": "Pacers"
+            },
+            "home_team_score": 0,
+            "id": 474032,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-13T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "id": 19,
+                "name": "Pelicans"
+            },
+            "home_team_score": 0,
+            "id": 474038,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-14T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "home_team_score": 0,
+            "id": 474047,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-15T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "id": 17,
+                "name": "Bucks"
+            },
+            "home_team_score": 0,
+            "id": 474056,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "6:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "id": 28,
+                "name": "Raptors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-16T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "id": 8,
+                "name": "Nuggets"
+            },
+            "home_team_score": 0,
+            "id": 474061,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "id": 29,
+                "name": "Jazz"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-17T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "home_team_score": 0,
+            "id": 474065,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "12:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "id": 19,
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-19T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "id": 29,
+                "name": "Jazz"
+            },
+            "home_team_score": 0,
+            "id": 474085,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "9:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "id": 11,
+                "name": "Rockets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-21T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "home_team_score": 0,
+            "id": 474097,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "id": 25,
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-23T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "home_team_score": 0,
+            "id": 474110,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "id": 1,
+                "name": "Hawks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-25T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "id": 10,
+                "name": "Warriors"
+            },
+            "home_team_score": 0,
+            "id": 474129,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-26T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "id": 1,
+                "name": "Hawks"
+            },
+            "home_team_score": 0,
+            "id": 474132,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-28T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "id": 24,
+                "name": "Suns"
+            },
+            "home_team_score": 0,
+            "id": 474152,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "9:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "id": 18,
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-29T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "home_team_score": 0,
+            "id": 474155,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "id": 12,
+                "name": "Pacers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-30T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "home_team_score": 0,
+            "id": 474164,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-01-31T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "id": 23,
+                "name": "76ers"
+            },
+            "home_team_score": 0,
+            "id": 474171,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "id": 15,
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-01T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "id": 17,
+                "name": "Bucks"
+            },
+            "home_team_score": 0,
+            "id": 474177,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-02T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "id": 23,
+                "name": "76ers"
+            },
+            "home_team_score": 0,
+            "id": 474183,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-03T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "id": 13,
+                "name": "Clippers"
+            },
+            "home_team_score": 0,
+            "id": 474194,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "10:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "id": 14,
+                "name": "Lakers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-04T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "id": 9,
+                "name": "Pistons"
+            },
+            "home_team_score": 0,
+            "id": 474200,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-05T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "id": 14,
+                "name": "Lakers"
+            },
+            "home_team_score": 0,
+            "id": 474207,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "id": 20,
+                "name": "Knicks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-06T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "id": 18,
+                "name": "Timberwolves"
+            },
+            "home_team_score": 0,
+            "id": 474213,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "3:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "id": 9,
+                "name": "Pistons"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-08T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "home_team_score": 0,
+            "id": 474231,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "id": 9,
+                "name": "Pistons"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-09T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "home_team_score": 0,
+            "id": 474237,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "id": 28,
+                "name": "Raptors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-10T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "id": 11,
+                "name": "Rockets"
+            },
+            "home_team_score": 0,
+            "id": 474245,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "id": 28,
+                "name": "Raptors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-11T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "id": 1,
+                "name": "Hawks"
+            },
+            "home_team_score": 0,
+            "id": 474252,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "id": 27,
+                "name": "Spurs"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-12T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "id": 30,
+                "name": "Wizards"
+            },
+            "home_team_score": 0,
+            "id": 474255,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-14T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "id": 20,
+                "name": "Knicks"
+            },
+            "home_team_score": 0,
+            "id": 474274,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-15T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "id": 17,
+                "name": "Bucks"
+            },
+            "home_team_score": 0,
+            "id": 474280,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "id": 12,
+                "name": "Pacers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-16T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "id": 22,
+                "name": "Magic"
+            },
+            "home_team_score": 0,
+            "id": 474287,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "id": 1,
+                "name": "Hawks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-24T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "home_team_score": 0,
+            "id": 474302,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "id": 24,
+                "name": "Suns"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-25T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "home_team_score": 0,
+            "id": 474310,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "id": 28,
+                "name": "Raptors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-26T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "id": 5,
+                "name": "Bulls"
+            },
+            "home_team_score": 0,
+            "id": 474319,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "id": 15,
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-27T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "id": 24,
+                "name": "Suns"
+            },
+            "home_team_score": 0,
+            "id": 474327,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "3:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "id": 29,
+                "name": "Jazz"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-02-28T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "id": 21,
+                "name": "Thunder"
+            },
+            "home_team_score": 0,
+            "id": 474333,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-01T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "id": 2,
+                "name": "Celtics"
+            },
+            "home_team_score": 0,
+            "id": 474336,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "id": 1,
+                "name": "Hawks"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-02T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "id": 6,
+                "name": "Cavaliers"
+            },
+            "home_team_score": 0,
+            "id": 474345,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-03T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "id": 27,
+                "name": "Spurs"
+            },
+            "home_team_score": 0,
+            "id": 474352,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "id": 26,
+                "name": "Kings"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-04T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "id": 23,
+                "name": "76ers"
+            },
+            "home_team_score": 0,
+            "id": 474361,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "id": 6,
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-05T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "id": 4,
+                "name": "Hornets"
+            },
+            "home_team_score": 0,
+            "id": 474366,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "id": 27,
+                "name": "Spurs"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-06T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "id": 6,
+                "name": "Cavaliers"
+            },
+            "home_team_score": 0,
+            "id": 474374,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "6:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "id": 28,
+                "name": "Raptors"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-07T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "id": 7,
+                "name": "Mavericks"
+            },
+            "home_team_score": 0,
+            "id": 474380,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "8:30 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "id": 29,
+                "name": "Jazz"
+            },
+            "visitor_team_score": 0
+        },
+        {
+            "date": "2022-03-08T00:00:00.000Z",
+            "home_team": {
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "id": 12,
+                "name": "Pacers"
+            },
+            "home_team_score": 0,
+            "id": 474384,
+            "period": 0,
+            "postseason": false,
+            "season": 2021,
+            "status": "7:00 PM ET",
+            "time": "",
+            "visitor_team": {
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "id": 6,
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 0
+        }
+    ],
+    "meta": {
+        "current_page": 3,
+        "next_page": 4,
+        "per_page": 100,
+        "total_count": 692,
+        "total_pages": 7
+    }
+}
