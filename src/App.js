@@ -73,6 +73,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
+                <h1>NOT A SHADY CRYPTO SCAM</h1>
                 <p>Blockchain Basketball</p>
                 <p>Connected wallet address: {this.state.address}</p>
                 <form onSubmit={this.handleSubmit}>

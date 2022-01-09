@@ -90,38 +90,56 @@ contract Betting {
         uint256 LoserBet = 0; // This will be the sum of all the losing bets
         uint256 WinnerBet = 0; // This will be the sum of all the winning bets
         address add;
+        uint256 HomeAmount = games[_gameID].totalBetsHome;
+        uint256 AwayAmount = games[_gameID].totalBetsAway;
 
-        // We loop through the player array to find the players that correctly bet on the winning team
-        for (uint256 i = 0; i < games[_gameID].players.length; i++) {
-            address payable playerAddress = games[_gameID].players[i];
+        /*check if there actually are any bets on this game, if there are no bets, just skip all of this and set game as "taken place"
+        without needing to take any action */
+        if (!(HomeAmount == 0 && AwayAmount == 0)) {
 
-            // If the player bet on the winning team, we add that player's address to the winners array
-            if (
-                games[_gameID].playerInfo[playerAddress].teamSelected ==
-                _teamWinner
-            ) {
-                winners[count] = playerAddress;
-                count++;
+            if (HomeAmount == 0){
+                _teamWinner = 2;
             }
-        }
+            else if (AwayAmount == 0){
+                _teamWinner = 1;
+            }
+            
+            // We loop through the player array to find the players that correctly bet on the winning team
+            for (uint256 i = 0; i < games[_gameID].players.length; i++) {
+                address payable playerAddress = games[_gameID].players[i];
 
-        // Define which bet sum is the winner and which is the loser
-        if (_teamWinner == 1) {
-            LoserBet = games[_gameID].totalBetsAway;
-            WinnerBet = games[_gameID].totalBetsHome;
-        } else {
-            LoserBet = games[_gameID].totalBetsHome;
-            WinnerBet = games[_gameID].totalBetsAway;
-        }
+                // If the player bet on the winning team, we add that player's address to the winners array
+                if (
+                    games[_gameID].playerInfo[playerAddress].teamSelected ==
+                    _teamWinner
+                ) {
+                    winners[count] = playerAddress;
+                    count++;
+                }
+            }
 
-        // Loop through the array of winners and distribute eth (in units of wei) to each of them
-        for (uint256 j = 0; j < count; j++) {
-            // Check that we actually have a proper, valid address in this slot of the array
-            if (winners[j] != address(0)) {
-                add = winners[j];
-                uint256 bet_amount = games[_gameID].playerInfo[add].amountBet;
-                // Distribute wei to the user based on the formula (pro rata distribution to the winners based on how much money they individually bet)
-                winners[j].transfer(bet_amount * (1 + LoserBet / WinnerBet));
+            // Define which bet sum is the winner and which is the loser
+            if (_teamWinner == 1) {
+                LoserBet = games[_gameID].totalBetsAway;
+                WinnerBet = games[_gameID].totalBetsHome;
+            } else {
+                LoserBet = games[_gameID].totalBetsHome;
+                WinnerBet = games[_gameID].totalBetsAway;
+            }
+
+            // Loop through the array of winners and distribute eth (in units of wei) to each of them
+            for (uint256 j = 0; j < count; j++) {
+                // Check that we actually have a proper, valid address in this slot of the array
+                if (winners[j] != address(0)) {
+                    add = winners[j];
+                    uint256 bet_amount = games[_gameID]
+                        .playerInfo[add]
+                        .amountBet;
+                    // Distribute wei to the user based on the formula (pro rata distribution to the winners based on how much money they individually bet)
+                    winners[j].transfer(
+                        bet_amount * (1 + LoserBet / WinnerBet)
+                    );
+                }
             }
         }
 
