@@ -1,23 +1,24 @@
 # Peer to Peer Sports Betting Dapp
 
+To run the dapp on the web, go to FINAL PROJECT LINK TBD.
+
 ## About
 A project for the [Harmony University Hackathon](https://taikai.network/en/harmonyprotocol/hackathons/hackthefuture/overview).
 
 Made with ❤ by Jeremy, Albert, Charles, and Ash
 
-## Getting Started
+## Testnet Deployment Setup
+First, create a file called `.env` to store the mnemonic.
 
-To run the dapp on the web, go to FINAL PROJECT LINK TBD.
+Then, run the command `npx mnemonic` in the terminal to generate a mnemonic. Copy and paste this into `.env`, so that it now has one line in the form
+```
+MNEMONIC = 'a lot of words go here'
+```
+Then, you want to figure out what the wallet addresses are based on your given mnemonic. To do so, run `truffle console --network harmony_testnet`
 
-To run locally, first install all dependencies by running
+Once the truffle development console prompt displays, run `accounts`, which will display a list of accounts. Make note of the first account, and the fact that it begins with `0x`. Take this account address and put it in the search bar [here](https://explorer.pops.one/) to get the equivalent Harmony ONE address, which begins with `one1`. Go to the Harmony ONE faucet [here](https://faucet.pops.one/) and paste in the Harmony ONE address and request test tokens.
 
-`npm install`
-
-To deploy the smart contracts, run
-
-`truffle compile`
-
-`truffle migrate --reset`
+Now that your account has test tokens, you can deploy the smart contracts. To deploy the smart contracts, run `truffle migrate --reset --network harmony_testnet`
 
 This project uses [Truffle](https://trufflesuite.com/truffle/)
 
