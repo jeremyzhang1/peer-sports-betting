@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import Web3 from 'web3';
 import Betting from './contractCode/Betting.json';
+import gameData from './utils/gameData';
+import HarmonyBasketball from './utils/HarmonyBasketball.mp4'
 
 class App extends Component {
 
@@ -11,7 +13,8 @@ class App extends Component {
         this.state = {
             web3: '',
             address: '0x0',
-            betting: {}
+            betting: {},
+            games: {}
         };
 
         this.handleSubmit = this.handleSubmit.bind(this)
@@ -73,27 +76,34 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <h1>NOT A SHADY CRYPTO SCAM</h1>
-                <p>Blockchain Basketball</p>
-                <p>Connected wallet address: {this.state.address}</p>
-                <form onSubmit={this.handleSubmit}>
-                    <label>Game ID (1, 2, or 3 for debugging purposes)</label>
-                    <br/>
-                    <input type="number" name="gameid"></input>
-                    <br/>
-                    <label>Amount Bet (in Ether)</label>
-                    <br/>
-                    <input type="number" name="betamount"></input>
-                    <br/>
-                    <label>Which team? (1 for Home, 2 for Away)</label>
-                    <br/>
-                    <input type="number" name="team"></input>
-                    <br/>
-                    <p>Make sure all of the fields are filled out correctly before submitting. <br/> The form currently does not do error checking.</p>
-                    <button type="submit">Submit Bet</button>
-                </form>
+              <video id='backgroundVideo' autoPlay loop muted>
+                <source src={HarmonyBasketball} type='video/mp4' />
+              </video>
+              <h1>NOT A SHADY CRYPTO SCAM</h1>
+              <p>Blockchain Basketball</p>
+              <p>Connected wallet address: {this.state.address}</p>
+              <form onSubmit={this.handleSubmit}>
+                <label>Game ID (1, 2, or 3 for debugging purposes)</label>
+                <br />
+                <input type="number" name="gameid"></input>
+                <br />
+                <label>Amount Bet (in Ether)</label>
+                <br />
+                <input type="number" name="betamount"></input>
+                <br />
+                <label>Which team? (1 for Home, 2 for Away)</label>
+                <br />
+                <input type="number" name="team"></input>
+                <br />
+                <p>
+                  Make sure all of the fields are filled out correctly before
+                  submitting. <br /> The form currently does not do error
+                  checking.
+                </p>
+                <button type="submit">Submit Bet</button>
+              </form>
             </div>
-        )
+        );
     }
 }
 
