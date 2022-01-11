@@ -15,8 +15,10 @@ const Game = () => {
         home_team = game["home_team"]["full_name"];
         visitor_team = game["visitor_team"]["full_name"];
         date = game["date"];
-        parsedGames.push([id, home_team, visitor_team, date]);
+        parsedGames.push([id, visitor_team, home_team, date]);
     }
+
+    parsedGames.sort((a, b) => (a[0] > b[0]) ? 1 : -1)
 
     function singleGame (oneGame) {
         return (
@@ -36,8 +38,8 @@ const Game = () => {
             <thead>
                 <tr>
                     <th>ID</th>
-                    <th>Home Team</th>
                     <th>Away Team</th>
+                    <th>Home Team</th>
                     <th>Date</th>
                     <th>Bet on game!</th>
                 </tr>
