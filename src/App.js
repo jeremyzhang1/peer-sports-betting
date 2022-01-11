@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Web3 from 'web3';
 import Betting from './contractCode/Betting.json';
+import Game from './Game';
 import gameData from './utils/gameData';
 import HarmonyBasketball from './utils/HarmonyBasketball.mp4'
 
@@ -102,6 +103,7 @@ class App extends Component {
                 </p>
                 <button type="submit">Submit Bet</button>
               </form>
+              <Game />
             </div>
         );
     }
