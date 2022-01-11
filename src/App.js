@@ -100,15 +100,18 @@ class App extends Component {
                                 <button type="submit">Submit Bet</button>
                             </form>
                             <Game />
-                        </>} />
-                    <Route path="/" element={<div className="App">
-                        <video id='backgroundVideo' autoPlay loop muted>
-                            <source src={HarmonyBasketball} type='video/mp4' />
-                        </video>
-                        <button>
-                            <Link to="/app">Get Started</Link>
-                        </button>
-                    </div>} />
+                        </>
+                    } />
+                    <Route path="/" element={
+                        <div className="App">
+                            <video id='backgroundVideo' autoPlay loop muted>
+                                <source src={HarmonyBasketball} type='video/mp4' />
+                            </video>
+                            <button>
+                                <Link to="/app">Get Started</Link>
+                            </button>
+                        </div>
+                    } />
                 </Routes>
             </Router>
         );
