@@ -84,17 +84,18 @@ class App extends Component {
                                 <h1>Blockchain Basketball Betting</h1>
                                 <p>Connected wallet address: {this.state.address}</p>
                                 <form onSubmit={this.handleSubmit}>
-                                    <label>Game ID (1, 2, or 3 for debugging purposes)</label>
+                                    <label>Game ID</label>
                                     <br />
-                                    <input type="number" name="gameid"></input>
+                                    <input type="number" name="form" className='formStyle'></input>
                                     <br />
                                     <label>Amount Bet (in Ether)</label>
                                     <br />
-                                    <input type="number" name="betamount"></input>
+                                    <input type="number" step="0.000001" min="0" name="betamount" className='formStyle'></input>
                                     <br />
                                     <label>Which team? (1 for Home, 2 for Away)</label>
                                     <br />
-                                    <input type="number" name="team"></input>
+                                    <input type="number" min="1" max="2" name="team" className='formStyle'></input>
+                                    <br />
                                     <br />
                                     <p>
                                         Make sure all of the fields are filled out correctly before

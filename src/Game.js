@@ -23,7 +23,7 @@ const Game = () => {
         }
     }
 
-    parsedGames.sort((a, b) => (a[0] > b[0]) ? 1 : -1)
+    parsedGames.sort((a, b) => (a[0] > b[0]) ? 1 : -1);
 
     function singleGame (oneGame) {
         return (

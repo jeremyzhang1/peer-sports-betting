@@ -99,6 +99,22 @@ a {
     text-decoration: none;
 }
 
+.formStyle {
+  outline: 0;
+  border-width: 2px;
+  border-color: black;
+  background-color: white;
+  background: transparent;
+  text-align: center;
+  font-size: large;
+  padding-left: 10px;
+  width: 200px;
+}
+
+.formStyle:hover {
+  border-color: solid #555;
+}
+
 a:hover {
     color: lightgray;
     text-decoration: none;
@@ -116,6 +132,7 @@ a:hover {
 
 #background {
     background: url("./utils/bg.jpg");
+    background-size: 100%;
     
 }
 
