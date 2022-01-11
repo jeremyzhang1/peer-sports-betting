@@ -19,7 +19,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474015,
@@ -41,7 +42,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-10T00:00:00.000Z"
+        "date": "2022-01-10T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474020,
@@ -63,7 +65,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-01-11T00:00:00.000Z"
+        "date": "2022-01-11T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474025,
@@ -85,7 +88,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474041,
@@ -107,7 +111,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474049,
@@ -129,7 +134,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474062,
@@ -151,7 +157,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "3:00 PM ET"
     },
     {
         "id": 474072,
@@ -173,7 +180,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474074,
@@ -195,7 +203,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-01-18T00:00:00.000Z"
+        "date": "2022-01-18T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 473970,
@@ -217,7 +226,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-04T00:00:00.000Z"
+        "date": "2022-01-04T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474076,
@@ -239,7 +249,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474099,
@@ -261,7 +272,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474106,
@@ -283,7 +295,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 473969,
@@ -305,7 +318,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473985,
@@ -327,7 +341,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474001,
@@ -349,7 +364,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-01-08T00:00:00.000Z"
+        "date": "2022-01-08T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474007,
@@ -371,7 +387,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474016,
@@ -393,7 +410,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-10T00:00:00.000Z"
+        "date": "2022-01-10T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474021,
@@ -415,7 +433,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-01-11T00:00:00.000Z"
+        "date": "2022-01-11T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474028,
@@ -437,7 +456,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474037,
@@ -459,7 +479,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-13T00:00:00.000Z"
+        "date": "2022-01-13T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474044,
@@ -481,7 +502,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474055,
@@ -503,7 +525,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474060,
@@ -525,7 +548,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-01-16T00:00:00.000Z"
+        "date": "2022-01-16T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474066,
@@ -547,7 +571,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474082,
@@ -569,7 +594,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474101,
@@ -591,7 +617,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474105,
@@ -613,7 +640,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-01-22T00:00:00.000Z"
+        "date": "2022-01-22T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474108,
@@ -635,7 +663,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474119,
@@ -657,7 +686,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-24T00:00:00.000Z"
+        "date": "2022-01-24T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474125,
@@ -679,7 +709,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-25T00:00:00.000Z"
+        "date": "2022-01-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474137,
@@ -701,7 +732,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474145,
@@ -723,7 +755,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474163,
@@ -745,7 +778,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-30T00:00:00.000Z"
+        "date": "2022-01-30T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474170,
@@ -767,7 +801,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-01-31T00:00:00.000Z"
+        "date": "2022-01-31T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474178,
@@ -789,7 +824,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-02-01T00:00:00.000Z"
+        "date": "2022-02-01T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474187,
@@ -811,7 +847,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474192,
@@ -833,7 +870,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-02-03T00:00:00.000Z"
+        "date": "2022-02-03T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474198,
@@ -855,7 +893,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474206,
@@ -877,7 +916,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-02-05T00:00:00.000Z"
+        "date": "2022-02-05T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474211,
@@ -899,7 +939,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-02-06T00:00:00.000Z"
+        "date": "2022-02-06T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474220,
@@ -921,7 +962,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-02-07T00:00:00.000Z"
+        "date": "2022-02-07T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474224,
@@ -943,7 +985,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 473958,
@@ -965,7 +1008,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-02T00:00:00.000Z"
+        "date": "2022-01-02T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473965,
@@ -987,7 +1031,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473972,
@@ -1009,7 +1054,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-01-04T00:00:00.000Z"
+        "date": "2022-01-04T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474375,
@@ -1031,7 +1077,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-06T00:00:00.000Z"
+        "date": "2022-03-06T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474381,
@@ -1053,7 +1100,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-07T00:00:00.000Z"
+        "date": "2022-03-07T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474388,
@@ -1075,7 +1123,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-03-08T00:00:00.000Z"
+        "date": "2022-03-08T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474394,
@@ -1097,7 +1146,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474400,
@@ -1119,7 +1169,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474402,
@@ -1141,7 +1192,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-10T00:00:00.000Z"
+        "date": "2022-03-10T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474408,
@@ -1163,7 +1215,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474436,
@@ -1185,7 +1238,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474448,
@@ -1207,7 +1261,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474452,
@@ -1229,7 +1284,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474458,
@@ -1251,7 +1307,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474478,
@@ -1273,7 +1330,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474487,
@@ -1295,7 +1353,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474501,
@@ -1317,7 +1376,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474507,
@@ -1339,7 +1399,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-24T00:00:00.000Z"
+        "date": "2022-03-24T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474510,
@@ -1361,7 +1422,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-25T00:00:00.000Z"
+        "date": "2022-03-25T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474522,
@@ -1383,7 +1445,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-26T00:00:00.000Z"
+        "date": "2022-03-26T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474528,
@@ -1405,7 +1468,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-27T00:00:00.000Z"
+        "date": "2022-03-27T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474533,
@@ -1427,7 +1491,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474543,
@@ -1449,7 +1514,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-29T00:00:00.000Z"
+        "date": "2022-03-29T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474549,
@@ -1471,7 +1537,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474568,
@@ -1493,7 +1560,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474573,
@@ -1515,7 +1583,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-04-02T00:00:00.000Z"
+        "date": "2022-04-02T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474579,
@@ -1537,7 +1606,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474013,
@@ -1559,7 +1629,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474033,
@@ -1581,7 +1652,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474046,
@@ -1603,7 +1675,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474058,
@@ -1625,7 +1698,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474071,
@@ -1647,7 +1721,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474083,
@@ -1669,7 +1744,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474088,
@@ -1691,7 +1767,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474089,
@@ -1713,7 +1790,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-01-20T00:00:00.000Z"
+        "date": "2022-01-20T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474098,
@@ -1735,7 +1813,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474115,
@@ -1757,7 +1836,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474139,
@@ -1779,7 +1859,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474150,
@@ -1801,7 +1882,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474158,
@@ -1823,7 +1905,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-01-29T00:00:00.000Z"
+        "date": "2022-01-29T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474165,
@@ -1845,7 +1928,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-01-30T00:00:00.000Z"
+        "date": "2022-01-30T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474173,
@@ -1867,7 +1951,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-01-31T00:00:00.000Z"
+        "date": "2022-01-31T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474179,
@@ -1889,7 +1974,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-02-01T00:00:00.000Z"
+        "date": "2022-02-01T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474185,
@@ -1911,7 +1997,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474202,
@@ -1933,7 +2020,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474216,
@@ -1955,7 +2043,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-02-06T00:00:00.000Z"
+        "date": "2022-02-06T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474221,
@@ -1977,7 +2066,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-02-07T00:00:00.000Z"
+        "date": "2022-02-07T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474225,
@@ -1999,7 +2089,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474261,
@@ -2021,7 +2112,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474271,
@@ -2043,7 +2135,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474289,
@@ -2065,7 +2158,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474312,
@@ -2087,7 +2181,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474326,
@@ -2109,7 +2204,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-02-27T00:00:00.000Z"
+        "date": "2022-02-27T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474347,
@@ -2131,7 +2227,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-03-02T00:00:00.000Z"
+        "date": "2022-03-02T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474351,
@@ -2153,7 +2250,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-03-03T00:00:00.000Z"
+        "date": "2022-03-03T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474360,
@@ -2175,7 +2273,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-04T00:00:00.000Z"
+        "date": "2022-03-04T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474594,
@@ -2197,7 +2296,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 473968,
@@ -2219,7 +2319,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473999,
@@ -2241,7 +2342,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-08T00:00:00.000Z"
+        "date": "2022-01-08T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474005,
@@ -2263,7 +2365,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474029,
@@ -2285,7 +2388,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474036,
@@ -2307,7 +2411,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-13T00:00:00.000Z"
+        "date": "2022-01-13T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474043,
@@ -2329,7 +2434,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474054,
@@ -2351,7 +2457,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474059,
@@ -2373,7 +2480,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-01-16T00:00:00.000Z"
+        "date": "2022-01-16T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474064,
@@ -2395,7 +2503,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "2:00 PM ET"
     },
     {
         "id": 474080,
@@ -2417,7 +2526,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474094,
@@ -2439,7 +2549,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474111,
@@ -2461,7 +2572,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474121,
@@ -2483,7 +2595,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-24T00:00:00.000Z"
+        "date": "2022-01-24T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474123,
@@ -2505,7 +2618,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-01-25T00:00:00.000Z"
+        "date": "2022-01-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474131,
@@ -2527,7 +2641,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474149,
@@ -2549,7 +2664,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474154,
@@ -2571,7 +2687,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-01-29T00:00:00.000Z"
+        "date": "2022-01-29T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474161,
@@ -2593,7 +2710,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-01-30T00:00:00.000Z"
+        "date": "2022-01-30T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474168,
@@ -2615,7 +2733,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-31T00:00:00.000Z"
+        "date": "2022-01-31T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474174,
@@ -2637,7 +2756,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-02-01T00:00:00.000Z"
+        "date": "2022-02-01T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474181,
@@ -2659,7 +2779,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474191,
@@ -2681,7 +2802,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-02-03T00:00:00.000Z"
+        "date": "2022-02-03T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474203,
@@ -2703,7 +2825,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474205,
@@ -2725,7 +2848,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-02-05T00:00:00.000Z"
+        "date": "2022-02-05T00:00:00.000Z",
+        "status": "5:00 PM ET"
     },
     {
         "id": 474210,
@@ -2747,7 +2871,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-02-06T00:00:00.000Z"
+        "date": "2022-02-06T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474230,
@@ -2769,7 +2894,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474234,
@@ -2791,7 +2917,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-02-09T00:00:00.000Z"
+        "date": "2022-02-09T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474240,
@@ -2813,7 +2940,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-02-10T00:00:00.000Z"
+        "date": "2022-02-10T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474249,
@@ -2835,7 +2963,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-02-11T00:00:00.000Z"
+        "date": "2022-02-11T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 473950,
@@ -2857,7 +2986,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-01T00:00:00.000Z"
+        "date": "2022-01-01T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473955,
@@ -2879,7 +3009,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-01-02T00:00:00.000Z"
+        "date": "2022-01-02T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473963,
@@ -2901,7 +3032,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473971,
@@ -2923,7 +3055,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-01-04T00:00:00.000Z"
+        "date": "2022-01-04T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474002,
@@ -2945,7 +3078,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-01-08T00:00:00.000Z"
+        "date": "2022-01-08T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474008,
@@ -2967,7 +3101,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474018,
@@ -2989,29 +3124,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-01-10T00:00:00.000Z"
-    },
-    {
-        "id": 474023,
-        "home_team": {
-            "id": 28,
-            "abbreviation": "TOR",
-            "city": "Toronto",
-            "conference": "East",
-            "division": "Atlantic",
-            "full_name": "Toronto Raptors",
-            "name": "Raptors"
-        },
-        "visitor_team": {
-            "id": 24,
-            "abbreviation": "PHX",
-            "city": "Phoenix",
-            "conference": "West",
-            "division": "Pacific",
-            "full_name": "Phoenix Suns",
-            "name": "Suns"
-        },
-        "date": "2022-01-11T00:00:00.000Z"
+        "date": "2022-01-10T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474030,
@@ -3033,7 +3147,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474039,
@@ -3055,7 +3170,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-01-13T00:00:00.000Z"
+        "date": "2022-01-13T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474045,
@@ -3077,7 +3193,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474057,
@@ -3099,7 +3216,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474067,
@@ -3121,7 +3239,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474084,
@@ -3143,7 +3262,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474096,
@@ -3165,7 +3285,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474112,
@@ -3187,7 +3308,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474127,
@@ -3209,7 +3331,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-01-25T00:00:00.000Z"
+        "date": "2022-01-25T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474138,
@@ -3231,7 +3354,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474146,
@@ -3253,7 +3377,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474189,
@@ -3275,7 +3400,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474193,
@@ -3297,7 +3423,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-02-03T00:00:00.000Z"
+        "date": "2022-02-03T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474201,
@@ -3319,7 +3446,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474209,
@@ -3341,7 +3469,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-02-05T00:00:00.000Z"
+        "date": "2022-02-05T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474212,
@@ -3363,7 +3492,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-02-06T00:00:00.000Z"
+        "date": "2022-02-06T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474232,
@@ -3385,7 +3515,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474238,
@@ -3407,7 +3538,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-02-09T00:00:00.000Z"
+        "date": "2022-02-09T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474244,
@@ -3429,7 +3561,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-02-10T00:00:00.000Z"
+        "date": "2022-02-10T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474251,
@@ -3451,7 +3584,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-02-11T00:00:00.000Z"
+        "date": "2022-02-11T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474262,
@@ -3473,7 +3607,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474273,
@@ -3495,7 +3630,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474279,
@@ -3517,7 +3653,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-02-15T00:00:00.000Z"
+        "date": "2022-02-15T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474288,
@@ -3539,7 +3676,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474303,
@@ -3561,7 +3699,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-02-24T00:00:00.000Z"
+        "date": "2022-02-24T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474311,
@@ -3583,7 +3722,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474318,
@@ -3605,7 +3745,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-02-26T00:00:00.000Z"
+        "date": "2022-02-26T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474324,
@@ -3627,7 +3768,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-02-27T00:00:00.000Z"
+        "date": "2022-02-27T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474332,
@@ -3649,7 +3791,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-02-28T00:00:00.000Z"
+        "date": "2022-02-28T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474337,
@@ -3671,7 +3814,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-03-01T00:00:00.000Z"
+        "date": "2022-03-01T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474343,
@@ -3693,7 +3837,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-02T00:00:00.000Z"
+        "date": "2022-03-02T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474353,
@@ -3715,7 +3860,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-03T00:00:00.000Z"
+        "date": "2022-03-03T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474358,
@@ -3737,7 +3883,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-04T00:00:00.000Z"
+        "date": "2022-03-04T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474367,
@@ -3759,7 +3906,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-05T00:00:00.000Z"
+        "date": "2022-03-05T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474373,
@@ -3781,7 +3929,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-03-06T00:00:00.000Z"
+        "date": "2022-03-06T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474382,
@@ -3803,7 +3952,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-07T00:00:00.000Z"
+        "date": "2022-03-07T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474387,
@@ -3825,7 +3975,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-08T00:00:00.000Z"
+        "date": "2022-03-08T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474392,
@@ -3847,7 +3998,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474409,
@@ -3869,7 +4021,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474417,
@@ -3891,7 +4044,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-12T00:00:00.000Z"
+        "date": "2022-03-12T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474423,
@@ -3913,7 +4067,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-03-13T00:00:00.000Z"
+        "date": "2022-03-13T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474435,
@@ -3935,7 +4090,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474440,
@@ -3957,7 +4113,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-03-15T00:00:00.000Z"
+        "date": "2022-03-15T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474447,
@@ -3979,7 +4136,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474463,
@@ -4001,7 +4159,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474469,
@@ -4023,7 +4182,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-19T00:00:00.000Z"
+        "date": "2022-03-19T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474474,
@@ -4045,7 +4205,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474485,
@@ -4067,7 +4228,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474500,
@@ -4089,7 +4251,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474506,
@@ -4111,7 +4274,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-03-24T00:00:00.000Z"
+        "date": "2022-03-24T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474511,
@@ -4133,7 +4297,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-25T00:00:00.000Z"
+        "date": "2022-03-25T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474520,
@@ -4155,7 +4320,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-03-26T00:00:00.000Z"
+        "date": "2022-03-26T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474529,
@@ -4177,7 +4343,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-27T00:00:00.000Z"
+        "date": "2022-03-27T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474535,
@@ -4199,7 +4366,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474540,
@@ -4221,7 +4389,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-29T00:00:00.000Z"
+        "date": "2022-03-29T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474548,
@@ -4243,7 +4412,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474566,
@@ -4265,7 +4435,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474572,
@@ -4287,7 +4458,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-04-02T00:00:00.000Z"
+        "date": "2022-04-02T00:00:00.000Z",
+        "status": "12:30 PM ET"
     },
     {
         "id": 474577,
@@ -4309,7 +4481,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 473952,
@@ -4331,7 +4504,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-01-01T00:00:00.000Z"
+        "date": "2022-01-01T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473957,
@@ -4353,7 +4527,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-01-02T00:00:00.000Z"
+        "date": "2022-01-02T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473967,
@@ -4375,7 +4550,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473980,
@@ -4397,7 +4573,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474014,
@@ -4419,7 +4596,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474019,
@@ -4441,7 +4619,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-01-10T00:00:00.000Z"
+        "date": "2022-01-10T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474022,
@@ -4463,7 +4642,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-11T00:00:00.000Z"
+        "date": "2022-01-11T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474031,
@@ -4485,7 +4665,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474048,
@@ -4507,7 +4688,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474052,
@@ -4529,7 +4711,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474068,
@@ -4551,7 +4734,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474073,
@@ -4573,7 +4757,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474075,
@@ -4595,7 +4780,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-18T00:00:00.000Z"
+        "date": "2022-01-18T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474081,
@@ -4617,7 +4803,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474087,
@@ -4639,7 +4826,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474090,
@@ -4661,7 +4849,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-01-20T00:00:00.000Z"
+        "date": "2022-01-20T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474095,
@@ -4683,7 +4872,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474102,
@@ -4705,7 +4895,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474104,
@@ -4727,7 +4918,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-01-22T00:00:00.000Z"
+        "date": "2022-01-22T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474113,
@@ -4749,7 +4941,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474128,
@@ -4771,7 +4964,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-25T00:00:00.000Z"
+        "date": "2022-01-25T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474133,
@@ -4793,7 +4987,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474151,
@@ -4815,7 +5010,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474157,
@@ -4837,7 +5033,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-01-29T00:00:00.000Z"
+        "date": "2022-01-29T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474162,
@@ -4859,7 +5056,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-30T00:00:00.000Z"
+        "date": "2022-01-30T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474172,
@@ -4881,7 +5079,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-01-31T00:00:00.000Z"
+        "date": "2022-01-31T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474180,
@@ -4903,7 +5102,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-02-01T00:00:00.000Z"
+        "date": "2022-02-01T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474184,
@@ -4925,7 +5125,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474199,
@@ -4947,7 +5148,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474208,
@@ -4969,7 +5171,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-02-05T00:00:00.000Z"
+        "date": "2022-02-05T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474217,
@@ -4991,7 +5194,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-02-06T00:00:00.000Z"
+        "date": "2022-02-06T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474222,
@@ -5013,7 +5217,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-02-07T00:00:00.000Z"
+        "date": "2022-02-07T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474226,
@@ -5035,7 +5240,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474260,
@@ -5057,7 +5263,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474270,
@@ -5079,7 +5286,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474281,
@@ -5101,7 +5309,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-02-15T00:00:00.000Z"
+        "date": "2022-02-15T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474286,
@@ -5123,7 +5332,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474398,
@@ -5145,7 +5355,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474407,
@@ -5167,7 +5378,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474450,
@@ -5189,7 +5401,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474460,
@@ -5211,7 +5424,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474499,
@@ -5233,7 +5447,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474521,
@@ -5255,7 +5470,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-03-26T00:00:00.000Z"
+        "date": "2022-03-26T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474526,
@@ -5277,7 +5493,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-03-27T00:00:00.000Z"
+        "date": "2022-03-27T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474536,
@@ -5299,7 +5516,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474551,
@@ -5321,7 +5539,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474567,
@@ -5343,7 +5562,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474571,
@@ -5365,7 +5585,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-04-02T00:00:00.000Z"
+        "date": "2022-04-02T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474578,
@@ -5387,7 +5608,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "5:00 PM ET"
     },
     {
         "id": 474584,
@@ -5409,7 +5631,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474590,
@@ -5431,7 +5654,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474597,
@@ -5453,7 +5677,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474599,
@@ -5475,7 +5700,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-04-06T00:00:00.000Z"
+        "date": "2022-04-06T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474610,
@@ -5497,7 +5723,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-04-07T00:00:00.000Z"
+        "date": "2022-04-07T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474617,
@@ -5519,7 +5746,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474631,
@@ -5541,7 +5769,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474636,
@@ -5563,7 +5792,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 473964,
@@ -5585,7 +5815,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474003,
@@ -5607,7 +5838,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-08T00:00:00.000Z"
+        "date": "2022-01-08T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474009,
@@ -5629,7 +5861,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474017,
@@ -5651,7 +5884,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-01-10T00:00:00.000Z"
+        "date": "2022-01-10T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474024,
@@ -5673,7 +5907,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-01-11T00:00:00.000Z"
+        "date": "2022-01-11T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474032,
@@ -5695,7 +5930,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474038,
@@ -5717,7 +5953,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-13T00:00:00.000Z"
+        "date": "2022-01-13T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474047,
@@ -5739,7 +5976,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474056,
@@ -5761,7 +5999,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "6:30 PM ET"
     },
     {
         "id": 474061,
@@ -5783,7 +6022,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-16T00:00:00.000Z"
+        "date": "2022-01-16T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474065,
@@ -5805,7 +6045,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "12:30 PM ET"
     },
     {
         "id": 474085,
@@ -5827,7 +6068,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474097,
@@ -5849,7 +6091,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474110,
@@ -5871,7 +6114,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474129,
@@ -5893,7 +6137,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-01-25T00:00:00.000Z"
+        "date": "2022-01-25T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474132,
@@ -5915,7 +6160,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474152,
@@ -5937,7 +6183,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474155,
@@ -5959,7 +6206,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-29T00:00:00.000Z"
+        "date": "2022-01-29T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474164,
@@ -5981,7 +6229,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-01-30T00:00:00.000Z"
+        "date": "2022-01-30T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474171,
@@ -6003,7 +6252,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-31T00:00:00.000Z"
+        "date": "2022-01-31T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474177,
@@ -6025,7 +6275,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-02-01T00:00:00.000Z"
+        "date": "2022-02-01T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474183,
@@ -6047,7 +6298,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474194,
@@ -6069,7 +6321,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-02-03T00:00:00.000Z"
+        "date": "2022-02-03T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474200,
@@ -6091,7 +6344,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474207,
@@ -6113,7 +6367,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-02-05T00:00:00.000Z"
+        "date": "2022-02-05T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474213,
@@ -6135,7 +6390,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-02-06T00:00:00.000Z"
+        "date": "2022-02-06T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474231,
@@ -6157,7 +6413,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474237,
@@ -6179,7 +6436,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-02-09T00:00:00.000Z"
+        "date": "2022-02-09T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474245,
@@ -6201,7 +6459,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-02-10T00:00:00.000Z"
+        "date": "2022-02-10T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474252,
@@ -6223,7 +6482,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-02-11T00:00:00.000Z"
+        "date": "2022-02-11T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474255,
@@ -6245,7 +6505,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474274,
@@ -6267,7 +6528,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474280,
@@ -6289,7 +6551,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-02-15T00:00:00.000Z"
+        "date": "2022-02-15T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474287,
@@ -6311,7 +6574,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474302,
@@ -6333,7 +6597,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-02-24T00:00:00.000Z"
+        "date": "2022-02-24T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474310,
@@ -6355,7 +6620,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474319,
@@ -6377,7 +6643,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-02-26T00:00:00.000Z"
+        "date": "2022-02-26T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474327,
@@ -6399,7 +6666,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-02-27T00:00:00.000Z"
+        "date": "2022-02-27T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474333,
@@ -6421,7 +6689,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-02-28T00:00:00.000Z"
+        "date": "2022-02-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474336,
@@ -6443,7 +6712,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-01T00:00:00.000Z"
+        "date": "2022-03-01T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474345,
@@ -6465,7 +6735,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-03-02T00:00:00.000Z"
+        "date": "2022-03-02T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474352,
@@ -6487,7 +6758,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-03-03T00:00:00.000Z"
+        "date": "2022-03-03T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474361,
@@ -6509,7 +6781,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-03-04T00:00:00.000Z"
+        "date": "2022-03-04T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474366,
@@ -6531,7 +6804,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-03-05T00:00:00.000Z"
+        "date": "2022-03-05T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474374,
@@ -6553,7 +6827,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-03-06T00:00:00.000Z"
+        "date": "2022-03-06T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474380,
@@ -6575,7 +6850,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-07T00:00:00.000Z"
+        "date": "2022-03-07T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474384,
@@ -6597,7 +6873,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-03-08T00:00:00.000Z"
+        "date": "2022-03-08T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474393,
@@ -6619,7 +6896,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474412,
@@ -6641,7 +6919,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474418,
@@ -6663,7 +6942,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-03-12T00:00:00.000Z"
+        "date": "2022-03-12T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474421,
@@ -6685,7 +6965,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-03-13T00:00:00.000Z"
+        "date": "2022-03-13T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474434,
@@ -6707,7 +6988,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474438,
@@ -6729,7 +7011,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-03-15T00:00:00.000Z"
+        "date": "2022-03-15T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474446,
@@ -6751,7 +7034,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474459,
@@ -6773,7 +7057,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474477,
@@ -6795,7 +7080,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474486,
@@ -6817,7 +7103,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474491,
@@ -6839,7 +7126,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-22T00:00:00.000Z"
+        "date": "2022-03-22T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474494,
@@ -6861,7 +7149,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474538,
@@ -6883,7 +7172,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474542,
@@ -6905,7 +7195,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-03-29T00:00:00.000Z"
+        "date": "2022-03-29T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474550,
@@ -6927,7 +7218,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474565,
@@ -6949,7 +7241,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474580,
@@ -6971,7 +7264,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474595,
@@ -6993,7 +7287,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474603,
@@ -7015,7 +7310,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-04-06T00:00:00.000Z"
+        "date": "2022-04-06T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474609,
@@ -7037,7 +7333,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-04-07T00:00:00.000Z"
+        "date": "2022-04-07T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474619,
@@ -7059,7 +7356,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474623,
@@ -7081,7 +7379,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-04-09T00:00:00.000Z"
+        "date": "2022-04-09T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474626,
@@ -7103,7 +7402,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 473951,
@@ -7125,7 +7425,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-01-01T00:00:00.000Z"
+        "date": "2022-01-01T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473959,
@@ -7147,7 +7448,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-02T00:00:00.000Z"
+        "date": "2022-01-02T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473966,
@@ -7169,7 +7471,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473973,
@@ -7191,7 +7494,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-01-04T00:00:00.000Z"
+        "date": "2022-01-04T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474397,
@@ -7213,7 +7517,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474404,
@@ -7235,7 +7540,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474414,
@@ -7257,7 +7563,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-03-12T00:00:00.000Z"
+        "date": "2022-03-12T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474426,
@@ -7279,7 +7586,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-03-13T00:00:00.000Z"
+        "date": "2022-03-13T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474433,
@@ -7301,7 +7609,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474449,
@@ -7323,7 +7632,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474455,
@@ -7345,7 +7655,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474465,
@@ -7367,7 +7678,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474467,
@@ -7389,7 +7701,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-19T00:00:00.000Z"
+        "date": "2022-03-19T00:00:00.000Z",
+        "status": "5:00 PM ET"
     },
     {
         "id": 474473,
@@ -7411,7 +7724,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474481,
@@ -7433,7 +7747,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474496,
@@ -7455,7 +7770,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474514,
@@ -7477,7 +7793,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-03-25T00:00:00.000Z"
+        "date": "2022-03-25T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474517,
@@ -7499,7 +7816,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-03-26T00:00:00.000Z"
+        "date": "2022-03-26T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474534,
@@ -7521,7 +7839,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474544,
@@ -7543,7 +7862,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474554,
@@ -7565,7 +7885,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474556,
@@ -7587,7 +7908,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-03-31T00:00:00.000Z"
+        "date": "2022-03-31T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474560,
@@ -7609,7 +7931,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474583,
@@ -7631,7 +7954,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474592,
@@ -7653,7 +7977,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474600,
@@ -7675,7 +8000,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-04-06T00:00:00.000Z"
+        "date": "2022-04-06T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474605,
@@ -7697,7 +8023,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-04-07T00:00:00.000Z"
+        "date": "2022-04-07T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474614,
@@ -7719,7 +8046,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474633,
@@ -7741,7 +8069,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474634,
@@ -7763,7 +8092,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 473961,
@@ -7785,7 +8115,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473954,
@@ -7807,7 +8138,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-01-02T00:00:00.000Z"
+        "date": "2022-01-02T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474000,
@@ -7829,7 +8161,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-01-08T00:00:00.000Z"
+        "date": "2022-01-08T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474012,
@@ -7851,7 +8184,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474027,
@@ -7873,7 +8207,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474040,
@@ -7895,7 +8230,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474051,
@@ -7917,7 +8253,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474069,
@@ -7939,7 +8276,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474079,
@@ -7961,7 +8299,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474086,
@@ -7983,7 +8322,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474091,
@@ -8005,7 +8345,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-20T00:00:00.000Z"
+        "date": "2022-01-20T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474093,
@@ -8027,7 +8368,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474109,
@@ -8049,7 +8391,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474135,
@@ -8071,7 +8414,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474148,
@@ -8093,7 +8437,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474156,
@@ -8115,7 +8460,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-01-29T00:00:00.000Z"
+        "date": "2022-01-29T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474159,
@@ -8137,7 +8483,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-30T00:00:00.000Z"
+        "date": "2022-01-30T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474169,
@@ -8159,7 +8506,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-31T00:00:00.000Z"
+        "date": "2022-01-31T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474176,
@@ -8181,7 +8529,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-02-01T00:00:00.000Z"
+        "date": "2022-02-01T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474182,
@@ -8203,7 +8552,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474196,
@@ -8225,7 +8575,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474215,
@@ -8247,7 +8598,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-02-06T00:00:00.000Z"
+        "date": "2022-02-06T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474219,
@@ -8269,7 +8621,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-02-07T00:00:00.000Z"
+        "date": "2022-02-07T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474229,
@@ -8291,7 +8644,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474243,
@@ -8313,7 +8667,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-02-10T00:00:00.000Z"
+        "date": "2022-02-10T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474248,
@@ -8335,7 +8690,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-02-11T00:00:00.000Z"
+        "date": "2022-02-11T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474256,
@@ -8357,7 +8713,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474267,
@@ -8379,7 +8736,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474278,
@@ -8401,7 +8759,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-02-15T00:00:00.000Z"
+        "date": "2022-02-15T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474282,
@@ -8423,7 +8782,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474292,
@@ -8445,7 +8805,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474295,
@@ -8467,7 +8828,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-02-17T00:00:00.000Z"
+        "date": "2022-02-17T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474299,
@@ -8489,7 +8851,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-02-24T00:00:00.000Z"
+        "date": "2022-02-24T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474306,
@@ -8511,7 +8874,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 473947,
@@ -8533,7 +8897,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-01-01T00:00:00.000Z"
+        "date": "2022-01-01T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474518,
@@ -8555,7 +8920,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-26T00:00:00.000Z"
+        "date": "2022-03-26T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474525,
@@ -8577,7 +8943,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-03-27T00:00:00.000Z"
+        "date": "2022-03-27T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474532,
@@ -8599,7 +8966,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474539,
@@ -8621,7 +8989,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-29T00:00:00.000Z"
+        "date": "2022-03-29T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474546,
@@ -8643,7 +9012,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474561,
@@ -8665,7 +9035,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474570,
@@ -8687,7 +9058,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-04-02T00:00:00.000Z"
+        "date": "2022-04-02T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474574,
@@ -8709,7 +9081,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474589,
@@ -8731,7 +9104,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474004,
@@ -8753,7 +9127,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-01-08T00:00:00.000Z"
+        "date": "2022-01-08T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474006,
@@ -8775,7 +9150,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474034,
@@ -8797,7 +9173,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474035,
@@ -8819,7 +9196,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-01-13T00:00:00.000Z"
+        "date": "2022-01-13T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474042,
@@ -8841,7 +9219,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-01-14T00:00:00.000Z"
+        "date": "2022-01-14T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474053,
@@ -8863,7 +9242,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474063,
@@ -8885,7 +9265,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474078,
@@ -8907,7 +9288,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474100,
@@ -8929,7 +9311,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474103,
@@ -8951,7 +9334,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-22T00:00:00.000Z"
+        "date": "2022-01-22T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474107,
@@ -8973,7 +9357,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474120,
@@ -8995,7 +9380,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-24T00:00:00.000Z"
+        "date": "2022-01-24T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474124,
@@ -9017,7 +9403,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-01-25T00:00:00.000Z"
+        "date": "2022-01-25T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474134,
@@ -9039,7 +9426,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474141,
@@ -9061,7 +9449,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-27T00:00:00.000Z"
+        "date": "2022-01-27T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474144,
@@ -9083,7 +9472,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474166,
@@ -9105,7 +9495,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-01-30T00:00:00.000Z"
+        "date": "2022-01-30T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474167,
@@ -9127,7 +9518,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-01-31T00:00:00.000Z"
+        "date": "2022-01-31T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474175,
@@ -9149,7 +9541,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-02-01T00:00:00.000Z"
+        "date": "2022-02-01T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474186,
@@ -9171,7 +9564,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474197,
@@ -9193,7 +9587,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474204,
@@ -9215,7 +9610,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-02-05T00:00:00.000Z"
+        "date": "2022-02-05T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474214,
@@ -9237,7 +9633,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-02-06T00:00:00.000Z"
+        "date": "2022-02-06T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474218,
@@ -9259,7 +9656,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-02-07T00:00:00.000Z"
+        "date": "2022-02-07T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474223,
@@ -9281,7 +9679,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474236,
@@ -9303,7 +9702,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-02-09T00:00:00.000Z"
+        "date": "2022-02-09T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474239,
@@ -9325,7 +9725,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-02-10T00:00:00.000Z"
+        "date": "2022-02-10T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474247,
@@ -9347,7 +9748,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-02-11T00:00:00.000Z"
+        "date": "2022-02-11T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474259,
@@ -9369,7 +9771,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474266,
@@ -9391,7 +9794,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474277,
@@ -9413,7 +9817,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-02-15T00:00:00.000Z"
+        "date": "2022-02-15T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474283,
@@ -9435,7 +9840,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474297,
@@ -9457,7 +9863,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-02-24T00:00:00.000Z"
+        "date": "2022-02-24T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474307,
@@ -9479,7 +9886,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474315,
@@ -9501,7 +9909,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-02-26T00:00:00.000Z"
+        "date": "2022-02-26T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474323,
@@ -9523,7 +9932,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-02-27T00:00:00.000Z"
+        "date": "2022-02-27T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474329,
@@ -9545,7 +9955,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-02-28T00:00:00.000Z"
+        "date": "2022-02-28T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474338,
@@ -9567,7 +9978,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-03-01T00:00:00.000Z"
+        "date": "2022-03-01T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474342,
@@ -9589,7 +10001,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-03-02T00:00:00.000Z"
+        "date": "2022-03-02T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474359,
@@ -9611,7 +10024,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-04T00:00:00.000Z"
+        "date": "2022-03-04T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474363,
@@ -9633,7 +10047,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-03-05T00:00:00.000Z"
+        "date": "2022-03-05T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474370,
@@ -9655,7 +10070,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-03-06T00:00:00.000Z"
+        "date": "2022-03-06T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474379,
@@ -9677,7 +10093,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-07T00:00:00.000Z"
+        "date": "2022-03-07T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474385,
@@ -9699,7 +10116,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-03-08T00:00:00.000Z"
+        "date": "2022-03-08T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474389,
@@ -9721,7 +10139,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474411,
@@ -9743,7 +10162,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474415,
@@ -9765,7 +10185,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-03-12T00:00:00.000Z"
+        "date": "2022-03-12T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474424,
@@ -9787,7 +10208,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-03-13T00:00:00.000Z"
+        "date": "2022-03-13T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474430,
@@ -9809,7 +10231,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474439,
@@ -9831,7 +10254,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-15T00:00:00.000Z"
+        "date": "2022-03-15T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474443,
@@ -9853,7 +10277,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474456,
@@ -9875,7 +10300,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474472,
@@ -9897,7 +10323,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474482,
@@ -9919,7 +10346,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474490,
@@ -9941,7 +10369,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-03-22T00:00:00.000Z"
+        "date": "2022-03-22T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474492,
@@ -9963,7 +10392,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474502,
@@ -9985,7 +10415,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474503,
@@ -10007,7 +10438,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-03-24T00:00:00.000Z"
+        "date": "2022-03-24T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474508,
@@ -10029,7 +10461,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-25T00:00:00.000Z"
+        "date": "2022-03-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474613,
@@ -10051,7 +10484,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474620,
@@ -10073,7 +10507,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-04-09T00:00:00.000Z"
+        "date": "2022-04-09T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474628,
@@ -10095,7 +10530,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 473949,
@@ -10117,7 +10553,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-01T00:00:00.000Z"
+        "date": "2022-01-01T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473956,
@@ -10139,7 +10576,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-01-02T00:00:00.000Z"
+        "date": "2022-01-02T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473962,
@@ -10161,7 +10599,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474117,
@@ -10183,7 +10622,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-01-24T00:00:00.000Z"
+        "date": "2022-01-24T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474122,
@@ -10205,7 +10645,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-01-25T00:00:00.000Z"
+        "date": "2022-01-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474130,
@@ -10227,7 +10668,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474140,
@@ -10249,7 +10691,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474142,
@@ -10271,7 +10714,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-01-27T00:00:00.000Z"
+        "date": "2022-01-27T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474143,
@@ -10293,7 +10737,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474227,
@@ -10315,7 +10760,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474233,
@@ -10337,7 +10783,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-02-09T00:00:00.000Z"
+        "date": "2022-02-09T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474241,
@@ -10359,7 +10806,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-02-10T00:00:00.000Z"
+        "date": "2022-02-10T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474246,
@@ -10381,7 +10829,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-02-11T00:00:00.000Z"
+        "date": "2022-02-11T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474254,
@@ -10403,7 +10852,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474263,
@@ -10425,7 +10875,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474264,
@@ -10447,7 +10898,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-02-13T00:00:00.000Z"
+        "date": "2022-02-13T00:00:00.000Z",
+        "status": "2:00 PM ET"
     },
     {
         "id": 474272,
@@ -10469,7 +10921,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474290,
@@ -10491,7 +10944,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474294,
@@ -10513,7 +10967,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-02-17T00:00:00.000Z"
+        "date": "2022-02-17T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474298,
@@ -10535,7 +10990,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-02-24T00:00:00.000Z"
+        "date": "2022-02-24T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474305,
@@ -10557,7 +11013,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474313,
@@ -10579,7 +11036,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-02-26T00:00:00.000Z"
+        "date": "2022-02-26T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474322,
@@ -10601,7 +11059,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-02-27T00:00:00.000Z"
+        "date": "2022-02-27T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474328,
@@ -10623,7 +11082,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-02-28T00:00:00.000Z"
+        "date": "2022-02-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474335,
@@ -10645,7 +11105,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-03-01T00:00:00.000Z"
+        "date": "2022-03-01T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474340,
@@ -10667,7 +11128,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-03-02T00:00:00.000Z"
+        "date": "2022-03-02T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474349,
@@ -10689,7 +11151,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-03-03T00:00:00.000Z"
+        "date": "2022-03-03T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474354,
@@ -10711,7 +11174,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-04T00:00:00.000Z"
+        "date": "2022-03-04T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474369,
@@ -10733,7 +11197,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-03-06T00:00:00.000Z"
+        "date": "2022-03-06T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474377,
@@ -10755,7 +11220,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-07T00:00:00.000Z"
+        "date": "2022-03-07T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474390,
@@ -10777,7 +11243,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474403,
@@ -10799,7 +11266,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474427,
@@ -10821,7 +11289,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-13T00:00:00.000Z"
+        "date": "2022-03-13T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474431,
@@ -10843,7 +11312,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474442,
@@ -10865,7 +11335,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474451,
@@ -10887,7 +11358,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474453,
@@ -10909,7 +11381,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-03-17T00:00:00.000Z"
+        "date": "2022-03-17T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474454,
@@ -10931,7 +11404,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474464,
@@ -10953,7 +11427,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474466,
@@ -10975,7 +11450,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-03-19T00:00:00.000Z"
+        "date": "2022-03-19T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474470,
@@ -10997,7 +11473,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474480,
@@ -11019,7 +11496,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474489,
@@ -11041,7 +11519,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-22T00:00:00.000Z"
+        "date": "2022-03-22T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474495,
@@ -11063,7 +11542,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474513,
@@ -11085,7 +11565,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-03-25T00:00:00.000Z"
+        "date": "2022-03-25T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474515,
@@ -11107,7 +11588,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-03-26T00:00:00.000Z"
+        "date": "2022-03-26T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474524,
@@ -11129,7 +11611,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-27T00:00:00.000Z"
+        "date": "2022-03-27T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474531,
@@ -11151,7 +11634,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474545,
@@ -11173,7 +11657,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474555,
@@ -11195,7 +11680,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-31T00:00:00.000Z"
+        "date": "2022-03-31T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474562,
@@ -11217,7 +11703,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474582,
@@ -11239,7 +11726,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474587,
@@ -11261,7 +11749,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474596,
@@ -11283,7 +11772,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474598,
@@ -11305,7 +11795,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-04-06T00:00:00.000Z"
+        "date": "2022-04-06T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474604,
@@ -11327,7 +11818,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-04-07T00:00:00.000Z"
+        "date": "2022-04-07T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474611,
@@ -11349,7 +11841,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474621,
@@ -11371,7 +11864,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-04-09T00:00:00.000Z"
+        "date": "2022-04-09T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474624,
@@ -11393,7 +11887,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 473953,
@@ -11415,7 +11910,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-01-02T00:00:00.000Z"
+        "date": "2022-01-02T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473960,
@@ -11437,7 +11933,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-03T00:00:00.000Z"
+        "date": "2022-01-03T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473948,
@@ -11459,7 +11956,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-01-01T00:00:00.000Z"
+        "date": "2022-01-01T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473974,
@@ -11481,7 +11979,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-04T00:00:00.000Z"
+        "date": "2022-01-04T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474010,
@@ -11503,7 +12002,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-01-09T00:00:00.000Z"
+        "date": "2022-01-09T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 474026,
@@ -11525,7 +12025,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-01-12T00:00:00.000Z"
+        "date": "2022-01-12T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474050,
@@ -11547,7 +12048,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-01-15T00:00:00.000Z"
+        "date": "2022-01-15T00:00:00.000Z",
+        "status": "9:30 PM ET"
     },
     {
         "id": 474070,
@@ -11569,7 +12071,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-01-17T00:00:00.000Z"
+        "date": "2022-01-17T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474077,
@@ -11591,7 +12094,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-01-19T00:00:00.000Z"
+        "date": "2022-01-19T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474092,
@@ -11613,7 +12117,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-01-21T00:00:00.000Z"
+        "date": "2022-01-21T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474114,
@@ -11635,7 +12140,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474257,
@@ -11657,7 +12163,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474291,
@@ -11679,7 +12186,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474293,
@@ -11701,7 +12209,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-02-17T00:00:00.000Z"
+        "date": "2022-02-17T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474301,
@@ -11723,7 +12232,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-02-24T00:00:00.000Z"
+        "date": "2022-02-24T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474304,
@@ -11745,7 +12255,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474314,
@@ -11767,7 +12278,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-02-26T00:00:00.000Z"
+        "date": "2022-02-26T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474320,
@@ -11789,7 +12301,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-02-27T00:00:00.000Z"
+        "date": "2022-02-27T00:00:00.000Z",
+        "status": "5:00 PM ET"
     },
     {
         "id": 474346,
@@ -11811,7 +12324,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-02T00:00:00.000Z"
+        "date": "2022-03-02T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474348,
@@ -11833,7 +12347,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-03-03T00:00:00.000Z"
+        "date": "2022-03-03T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474355,
@@ -11855,7 +12370,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-03-04T00:00:00.000Z"
+        "date": "2022-03-04T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474362,
@@ -11877,7 +12393,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-03-05T00:00:00.000Z"
+        "date": "2022-03-05T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474368,
@@ -11899,7 +12416,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-06T00:00:00.000Z"
+        "date": "2022-03-06T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474396,
@@ -11921,7 +12439,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474410,
@@ -11943,7 +12462,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474419,
@@ -11965,7 +12485,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-03-12T00:00:00.000Z"
+        "date": "2022-03-12T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474420,
@@ -11987,7 +12508,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-03-13T00:00:00.000Z"
+        "date": "2022-03-13T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474429,
@@ -12009,7 +12531,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474441,
@@ -12031,7 +12554,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474461,
@@ -12053,7 +12577,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474471,
@@ -12075,7 +12600,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474479,
@@ -12097,7 +12623,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474497,
@@ -12119,7 +12646,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474504,
@@ -12141,7 +12669,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-03-24T00:00:00.000Z"
+        "date": "2022-03-24T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474512,
@@ -12163,7 +12692,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-03-25T00:00:00.000Z"
+        "date": "2022-03-25T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474516,
@@ -12185,7 +12715,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-03-26T00:00:00.000Z"
+        "date": "2022-03-26T00:00:00.000Z",
+        "status": "5:00 PM ET"
     },
     {
         "id": 474523,
@@ -12207,7 +12738,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-27T00:00:00.000Z"
+        "date": "2022-03-27T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474530,
@@ -12229,7 +12761,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474552,
@@ -12251,7 +12784,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474557,
@@ -12273,7 +12807,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-03-31T00:00:00.000Z"
+        "date": "2022-03-31T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474559,
@@ -12295,7 +12830,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474581,
@@ -12317,7 +12853,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474585,
@@ -12339,7 +12876,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "9:30 PM ET"
     },
     {
         "id": 474586,
@@ -12361,7 +12899,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474612,
@@ -12383,7 +12922,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "9:30 PM ET"
     },
     {
         "id": 474627,
@@ -12405,7 +12945,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474635,
@@ -12427,7 +12968,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474116,
@@ -12449,7 +12991,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-23T00:00:00.000Z"
+        "date": "2022-01-23T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474118,
@@ -12471,7 +13014,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-01-24T00:00:00.000Z"
+        "date": "2022-01-24T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474126,
@@ -12493,7 +13037,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-01-25T00:00:00.000Z"
+        "date": "2022-01-25T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474136,
@@ -12515,7 +13060,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-01-26T00:00:00.000Z"
+        "date": "2022-01-26T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474147,
@@ -12537,7 +13083,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-01-28T00:00:00.000Z"
+        "date": "2022-01-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474153,
@@ -12559,7 +13106,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-01-29T00:00:00.000Z"
+        "date": "2022-01-29T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474160,
@@ -12581,7 +13129,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-01-30T00:00:00.000Z"
+        "date": "2022-01-30T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474188,
@@ -12603,7 +13152,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-02-02T00:00:00.000Z"
+        "date": "2022-02-02T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474190,
@@ -12625,7 +13175,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-02-03T00:00:00.000Z"
+        "date": "2022-02-03T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474195,
@@ -12647,7 +13198,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-02-04T00:00:00.000Z"
+        "date": "2022-02-04T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474228,
@@ -12669,7 +13221,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-02-08T00:00:00.000Z"
+        "date": "2022-02-08T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474235,
@@ -12691,7 +13244,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-02-09T00:00:00.000Z"
+        "date": "2022-02-09T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474242,
@@ -12713,7 +13267,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-02-10T00:00:00.000Z"
+        "date": "2022-02-10T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474250,
@@ -12735,7 +13290,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-02-11T00:00:00.000Z"
+        "date": "2022-02-11T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474258,
@@ -12757,7 +13313,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474269,
@@ -12779,7 +13336,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474276,
@@ -12801,7 +13359,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-02-15T00:00:00.000Z"
+        "date": "2022-02-15T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474285,
@@ -12823,7 +13382,8 @@
             "full_name": "Portland Trail Blazers",
             "name": "Trail Blazers"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474308,
@@ -12845,7 +13405,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474317,
@@ -12867,7 +13428,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-02-26T00:00:00.000Z"
+        "date": "2022-02-26T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474325,
@@ -12889,7 +13451,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-02-27T00:00:00.000Z"
+        "date": "2022-02-27T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474330,
@@ -12911,7 +13474,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-02-28T00:00:00.000Z"
+        "date": "2022-02-28T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474339,
@@ -12933,7 +13497,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-01T00:00:00.000Z"
+        "date": "2022-03-01T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474344,
@@ -12955,7 +13520,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-03-02T00:00:00.000Z"
+        "date": "2022-03-02T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474356,
@@ -12977,7 +13543,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-03-04T00:00:00.000Z"
+        "date": "2022-03-04T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474365,
@@ -12999,7 +13566,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-03-05T00:00:00.000Z"
+        "date": "2022-03-05T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474372,
@@ -13021,7 +13589,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-06T00:00:00.000Z"
+        "date": "2022-03-06T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474378,
@@ -13043,7 +13612,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-03-07T00:00:00.000Z"
+        "date": "2022-03-07T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474386,
@@ -13065,7 +13635,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-08T00:00:00.000Z"
+        "date": "2022-03-08T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474395,
@@ -13087,7 +13658,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474406,
@@ -13109,7 +13681,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474416,
@@ -13131,7 +13704,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-03-12T00:00:00.000Z"
+        "date": "2022-03-12T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474425,
@@ -13153,7 +13727,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-03-13T00:00:00.000Z"
+        "date": "2022-03-13T00:00:00.000Z",
+        "status": "3:00 PM ET"
     },
     {
         "id": 474432,
@@ -13175,7 +13750,8 @@
             "full_name": "Charlotte Hornets",
             "name": "Hornets"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474445,
@@ -13197,7 +13773,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474462,
@@ -13219,7 +13796,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474468,
@@ -13241,7 +13819,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-03-19T00:00:00.000Z"
+        "date": "2022-03-19T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474476,
@@ -13263,7 +13842,8 @@
             "full_name": "Memphis Grizzlies",
             "name": "Grizzlies"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "3:30 PM ET"
     },
     {
         "id": 474483,
@@ -13285,7 +13865,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474498,
@@ -13307,7 +13888,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474505,
@@ -13329,7 +13911,8 @@
             "full_name": "Chicago Bulls",
             "name": "Bulls"
         },
-        "date": "2022-03-24T00:00:00.000Z"
+        "date": "2022-03-24T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474509,
@@ -13351,7 +13934,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-03-25T00:00:00.000Z"
+        "date": "2022-03-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474519,
@@ -13373,7 +13957,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-03-26T00:00:00.000Z"
+        "date": "2022-03-26T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474527,
@@ -13395,7 +13980,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-03-27T00:00:00.000Z"
+        "date": "2022-03-27T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474537,
@@ -13417,7 +14003,8 @@
             "full_name": "Orlando Magic",
             "name": "Magic"
         },
-        "date": "2022-03-28T00:00:00.000Z"
+        "date": "2022-03-28T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474541,
@@ -13439,7 +14026,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-03-29T00:00:00.000Z"
+        "date": "2022-03-29T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474547,
@@ -13461,7 +14049,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474563,
@@ -13483,7 +14072,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474576,
@@ -13505,7 +14095,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "6:00 PM ET"
     },
     {
         "id": 474593,
@@ -13527,7 +14118,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474601,
@@ -13549,7 +14141,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-04-06T00:00:00.000Z"
+        "date": "2022-04-06T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474607,
@@ -13571,7 +14164,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-04-07T00:00:00.000Z"
+        "date": "2022-04-07T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474253,
@@ -13593,7 +14187,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-02-12T00:00:00.000Z"
+        "date": "2022-02-12T00:00:00.000Z",
+        "status": "5:00 PM ET"
     },
     {
         "id": 474265,
@@ -13615,7 +14210,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-02-13T00:00:00.000Z"
+        "date": "2022-02-13T00:00:00.000Z",
+        "status": "3:00 PM ET"
     },
     {
         "id": 474268,
@@ -13637,7 +14233,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-02-14T00:00:00.000Z"
+        "date": "2022-02-14T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474275,
@@ -13659,7 +14256,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-02-15T00:00:00.000Z"
+        "date": "2022-02-15T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474284,
@@ -13681,7 +14279,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-02-16T00:00:00.000Z"
+        "date": "2022-02-16T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474296,
@@ -13703,7 +14302,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-02-17T00:00:00.000Z"
+        "date": "2022-02-17T00:00:00.000Z",
+        "status": "10:30 PM ET"
     },
     {
         "id": 474300,
@@ -13725,7 +14325,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-02-24T00:00:00.000Z"
+        "date": "2022-02-24T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474309,
@@ -13747,7 +14348,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-02-25T00:00:00.000Z"
+        "date": "2022-02-25T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474316,
@@ -13769,7 +14371,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-02-26T00:00:00.000Z"
+        "date": "2022-02-26T00:00:00.000Z",
+        "status": "12:00 PM ET"
     },
     {
         "id": 474321,
@@ -13791,7 +14394,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-02-27T00:00:00.000Z"
+        "date": "2022-02-27T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474331,
@@ -13813,7 +14417,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-02-28T00:00:00.000Z"
+        "date": "2022-02-28T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474334,
@@ -13835,7 +14440,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-03-01T00:00:00.000Z"
+        "date": "2022-03-01T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474341,
@@ -13857,7 +14463,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-02T00:00:00.000Z"
+        "date": "2022-03-02T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474350,
@@ -13879,7 +14486,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-03T00:00:00.000Z"
+        "date": "2022-03-03T00:00:00.000Z",
+        "status": "8:30 PM ET"
     },
     {
         "id": 474357,
@@ -13901,7 +14509,8 @@
             "full_name": "Indiana Pacers",
             "name": "Pacers"
         },
-        "date": "2022-03-04T00:00:00.000Z"
+        "date": "2022-03-04T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474364,
@@ -13923,7 +14532,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-03-05T00:00:00.000Z"
+        "date": "2022-03-05T00:00:00.000Z",
+        "status": "5:00 PM ET"
     },
     {
         "id": 474371,
@@ -13945,7 +14555,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-03-06T00:00:00.000Z"
+        "date": "2022-03-06T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474376,
@@ -13967,7 +14578,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-07T00:00:00.000Z"
+        "date": "2022-03-07T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474383,
@@ -13989,7 +14601,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-03-08T00:00:00.000Z"
+        "date": "2022-03-08T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474391,
@@ -14011,7 +14624,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474399,
@@ -14033,7 +14647,8 @@
             "full_name": "Denver Nuggets",
             "name": "Nuggets"
         },
-        "date": "2022-03-09T00:00:00.000Z"
+        "date": "2022-03-09T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474401,
@@ -14055,7 +14670,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-03-10T00:00:00.000Z"
+        "date": "2022-03-10T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474405,
@@ -14077,7 +14693,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-03-11T00:00:00.000Z"
+        "date": "2022-03-11T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474413,
@@ -14099,7 +14716,8 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-03-12T00:00:00.000Z"
+        "date": "2022-03-12T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474422,
@@ -14121,7 +14739,8 @@
             "full_name": "New York Knicks",
             "name": "Knicks"
         },
-        "date": "2022-03-13T00:00:00.000Z"
+        "date": "2022-03-13T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474428,
@@ -14143,7 +14762,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-03-14T00:00:00.000Z"
+        "date": "2022-03-14T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474437,
@@ -14165,7 +14785,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-03-15T00:00:00.000Z"
+        "date": "2022-03-15T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474444,
@@ -14187,7 +14808,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-03-16T00:00:00.000Z"
+        "date": "2022-03-16T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474457,
@@ -14209,7 +14831,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-03-18T00:00:00.000Z"
+        "date": "2022-03-18T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474475,
@@ -14231,7 +14854,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-03-20T00:00:00.000Z"
+        "date": "2022-03-20T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474484,
@@ -14253,7 +14877,8 @@
             "full_name": "New Orleans Pelicans",
             "name": "Pelicans"
         },
-        "date": "2022-03-21T00:00:00.000Z"
+        "date": "2022-03-21T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474488,
@@ -14275,7 +14900,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-03-22T00:00:00.000Z"
+        "date": "2022-03-22T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474493,
@@ -14297,7 +14923,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-03-23T00:00:00.000Z"
+        "date": "2022-03-23T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474553,
@@ -14319,7 +14946,8 @@
             "full_name": "Phoenix Suns",
             "name": "Suns"
         },
-        "date": "2022-03-30T00:00:00.000Z"
+        "date": "2022-03-30T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474558,
@@ -14341,7 +14969,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-03-31T00:00:00.000Z"
+        "date": "2022-03-31T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474564,
@@ -14363,7 +14992,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-04-01T00:00:00.000Z"
+        "date": "2022-04-01T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474569,
@@ -14385,7 +15015,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-04-02T00:00:00.000Z"
+        "date": "2022-04-02T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474575,
@@ -14407,7 +15038,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-04-03T00:00:00.000Z"
+        "date": "2022-04-03T00:00:00.000Z",
+        "status": "1:00 PM ET"
     },
     {
         "id": 474588,
@@ -14429,7 +15061,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474606,
@@ -14451,7 +15084,8 @@
             "full_name": "Los Angeles Lakers",
             "name": "Lakers"
         },
-        "date": "2022-04-07T00:00:00.000Z"
+        "date": "2022-04-07T00:00:00.000Z",
+        "status": "10:00 PM ET"
     },
     {
         "id": 474616,
@@ -14473,7 +15107,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "7:00 PM ET"
     },
     {
         "id": 474629,
@@ -14495,7 +15130,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474591,
@@ -14517,7 +15153,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-04-05T00:00:00.000Z"
+        "date": "2022-04-05T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474632,
@@ -14539,7 +15176,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474602,
@@ -14561,7 +15199,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-04-06T00:00:00.000Z"
+        "date": "2022-04-06T00:00:00.000Z",
+        "status": "9:00 PM ET"
     },
     {
         "id": 474608,
@@ -14583,7 +15222,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-04-07T00:00:00.000Z"
+        "date": "2022-04-07T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474615,
@@ -14605,7 +15245,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "8:00 PM ET"
     },
     {
         "id": 474630,
@@ -14627,7 +15268,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474638,
@@ -14649,7 +15291,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474618,
@@ -14671,7 +15314,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-04-08T00:00:00.000Z"
+        "date": "2022-04-08T00:00:00.000Z",
+        "status": "7:30 PM ET"
     },
     {
         "id": 474622,
@@ -14693,7 +15337,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-04-09T00:00:00.000Z"
+        "date": "2022-04-09T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474625,
@@ -14715,7 +15360,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 474637,
@@ -14737,7 +15383,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-04-10T00:00:00.000Z"
+        "date": "2022-04-10T00:00:00.000Z",
+        "status": ""
     },
     {
         "id": 473981,
@@ -14759,7 +15406,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473978,
@@ -14781,7 +15429,8 @@
             "full_name": "Houston Rockets",
             "name": "Rockets"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473977,
@@ -14803,7 +15452,8 @@
             "full_name": "Philadelphia 76ers",
             "name": "76ers"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473976,
@@ -14825,7 +15475,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473975,
@@ -14847,7 +15498,8 @@
             "full_name": "Brooklyn Nets",
             "name": "Nets"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473982,
@@ -14869,7 +15521,8 @@
             "full_name": "Toronto Raptors",
             "name": "Raptors"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473983,
@@ -14891,7 +15544,8 @@
             "full_name": "Miami Heat",
             "name": "Heat"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473979,
@@ -14913,7 +15567,8 @@
             "full_name": "Oklahoma City Thunder",
             "name": "Thunder"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473984,
@@ -14935,7 +15590,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-05T00:00:00.000Z"
+        "date": "2022-01-05T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473989,
@@ -14957,7 +15613,8 @@
             "full_name": "Golden State Warriors",
             "name": "Warriors"
         },
-        "date": "2022-01-06T00:00:00.000Z"
+        "date": "2022-01-06T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473988,
@@ -14979,7 +15636,8 @@
             "full_name": "Detroit Pistons",
             "name": "Pistons"
         },
-        "date": "2022-01-06T00:00:00.000Z"
+        "date": "2022-01-06T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473992,
@@ -15001,7 +15659,8 @@
             "full_name": "San Antonio Spurs",
             "name": "Spurs"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473993,
@@ -15023,7 +15682,8 @@
             "full_name": "Utah Jazz",
             "name": "Jazz"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473997,
@@ -15045,7 +15705,8 @@
             "full_name": "Atlanta Hawks",
             "name": "Hawks"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473998,
@@ -15067,7 +15728,8 @@
             "full_name": "Dallas Mavericks",
             "name": "Mavericks"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473996,
@@ -15089,7 +15751,8 @@
             "full_name": "Sacramento Kings",
             "name": "Kings"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473991,
@@ -15111,7 +15774,8 @@
             "full_name": "Milwaukee Bucks",
             "name": "Bucks"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473990,
@@ -15133,7 +15797,8 @@
             "full_name": "Washington Wizards",
             "name": "Wizards"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473986,
@@ -15155,7 +15820,8 @@
             "full_name": "Boston Celtics",
             "name": "Celtics"
         },
-        "date": "2022-01-06T00:00:00.000Z"
+        "date": "2022-01-06T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473987,
@@ -15177,7 +15843,8 @@
             "full_name": "LA Clippers",
             "name": "Clippers"
         },
-        "date": "2022-01-06T00:00:00.000Z"
+        "date": "2022-01-06T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473995,
@@ -15199,7 +15866,8 @@
             "full_name": "Cleveland Cavaliers",
             "name": "Cavaliers"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
     },
     {
         "id": 473994,
@@ -15221,6 +15889,30 @@
             "full_name": "Minnesota Timberwolves",
             "name": "Timberwolves"
         },
-        "date": "2022-01-07T00:00:00.000Z"
+        "date": "2022-01-07T00:00:00.000Z",
+        "status": "Final"
+    },
+    {
+        "id": 474023,
+        "home_team": {
+            "id": 28,
+            "abbreviation": "TOR",
+            "city": "Toronto",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Toronto Raptors",
+            "name": "Raptors"
+        },
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "date": "2022-01-11T00:00:00.000Z",
+        "status": "7:30 PM ET"
     }
 ]

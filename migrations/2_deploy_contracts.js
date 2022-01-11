@@ -14,7 +14,7 @@ module.exports = async function(deployer) {
     // to store the games for web purposes
     let full_games = []
     // specifying which field we need for the website
-    let keys_to_extract = ["id","home_team","visitor_team", "date"];
+    let keys_to_extract = ["id","home_team","visitor_team", "date", "status"];
 
     for (let i = 0; i < 7; i++) {
         let page = i + 1
