@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
 import Web3 from 'web3';
 import Betting from './contractCode/Betting.json';
 import Game from './Game';
-import gameData from './utils/gameData';
 import HarmonyBasketball from './utils/HarmonyBasketball.mp4'
 
 class App extends Component {
@@ -53,10 +53,6 @@ class App extends Component {
         if (bettingData) {
             const betting = new web3.eth.Contract(Betting.abi, bettingData.address);
             this.setState({ betting });
-
-            // TODO: et the current amount bet on each team
-            // const homeBet = await this.state.betting.methods.AmountHome(1)
-            // const awayBet = await this.state.betting.methods.AmountAway(1)
         } else {
             window.alert('Betting contract not deployed to detected network.')
         }
@@ -65,7 +61,7 @@ class App extends Component {
 
     // javascript function to call the solidity bet function
     async bet(team, gameID, amount) {
-        await this.state.betting.methods.bet(team, gameID).send({from: this.state.address, value: window.web3.utils.toWei(amount, "ether")})
+        await this.state.betting.methods.bet(team, gameID).send({ from: this.state.address, value: window.web3.utils.toWei(amount, "ether") })
     }
 
     handleSubmit(event) {
@@ -76,35 +72,45 @@ class App extends Component {
 
     render() {
         return (
-            <div className="App">
-              <video id='backgroundVideo' autoPlay loop muted>
-                <source src={HarmonyBasketball} type='video/mp4' />
-              </video>
-              <h1>NOT A SHADY CRYPTO SCAM</h1>
-              <p>Blockchain Basketball</p>
-              <p>Connected wallet address: {this.state.address}</p>
-              <form onSubmit={this.handleSubmit}>
-                <label>Game ID (1, 2, or 3 for debugging purposes)</label>
-                <br />
-                <input type="number" name="gameid"></input>
-                <br />
-                <label>Amount Bet (in Ether)</label>
-                <br />
-                <input type="number" name="betamount"></input>
-                <br />
-                <label>Which team? (1 for Home, 2 for Away)</label>
-                <br />
-                <input type="number" name="team"></input>
-                <br />
-                <p>
-                  Make sure all of the fields are filled out correctly before
-                  submitting. <br /> The form currently does not do error
-                  checking.
-                </p>
-                <button type="submit">Submit Bet</button>
-              </form>
-              <Game />
-            </div>
+            <Router>
+                <Routes>
+                    <Route path="/app" element={
+                        <>
+                            <h1>NOT A SHADY CRYPTO SCAM</h1>
+                            <p>Blockchain Basketball</p>
+                            <p>Connected wallet address: {this.state.address}</p>
+                            <form onSubmit={this.handleSubmit}>
+                                <label>Game ID (1, 2, or 3 for debugging purposes)</label>
+                                <br />
+                                <input type="number" name="gameid"></input>
+                                <br />
+                                <label>Amount Bet (in Ether)</label>
+                                <br />
+                                <input type="number" name="betamount"></input>
+                                <br />
+                                <label>Which team? (1 for Home, 2 for Away)</label>
+                                <br />
+                                <input type="number" name="team"></input>
+                                <br />
+                                <p>
+                                    Make sure all of the fields are filled out correctly before
+                                    submitting. <br /> The form currently does not do error
+                                    checking.
+                                </p>
+                                <button type="submit">Submit Bet</button>
+                            </form>
+                            <Game />
+                        </>} />
+                    <Route path="/" element={<div className="App">
+                        <video id='backgroundVideo' autoPlay loop muted>
+                            <source src={HarmonyBasketball} type='video/mp4' />
+                        </video>
+                        <button>
+                            <Link to="/app">Get Started</Link>
+                        </button>
+                    </div>} />
+                </Routes>
+            </Router>
         );
     }
 }

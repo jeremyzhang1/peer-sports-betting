@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import gameData from './utils/gameData.json';
 import { Button, Table } from 'react-bootstrap';
 
