@@ -46,7 +46,7 @@ const Game = () => {
                     <th>Away Team</th>
                     <th>Home Team</th>
                     <th>Date</th>
-                    <th>Bet on game!</th>
+                    <th>Tipoff Time</th>
                 </tr>
             </thead>
             <tbody>
