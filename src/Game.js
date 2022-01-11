@@ -1,11 +1,38 @@
 import React, { Component } from 'react';
-import gameData from './utils/gameData';
+import gameData from './utils/gameData.json';
 import { Button, Table } from 'react-bootstrap';
+
 
 const Game = () => {
 
+    //parse game data json and extract id, home_team, visitor_team, date
+    let parsedData = gameData;
+    var parsedGames = [];
+
+    for (var i = 0, game, id, home_team, visitor_team, date; i < parsedData.length; i++) {
+        game = parsedData[i];
+        id = game['id'];
+        home_team = game["home_team"]["full_name"];
+        visitor_team = game["visitor_team"]["full_name"];
+        date = game["date"];
+        parsedGames.push([id, home_team, visitor_team, date]);
+    }
+
+    function singleGame (oneGame) {
+        return (
+            <tr>
+                <td>{ oneGame[0] }</td>
+                <td>{ oneGame[1] }</td>
+                <td>{ oneGame[2] }</td>
+                <td>{ oneGame[3] }</td>
+                <td><Button variant="primary">Bet</Button></td>
+            </tr>
+        );
+    
+    };
+
     return (
-        <Table bordered size='sm'>
+        <Table striped bordered hover variant="dark">
             <thead>
                 <tr>
                     <th>ID</th>
@@ -16,27 +43,7 @@ const Game = () => {
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>1</td>
-                    <td>Harmony Ones</td>
-                    <td>Algorand Algos</td>
-                    <td>12/25</td>
-                    <td><Button variant="primary">Bet</Button></td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>Harmony Ones</td>
-                    <td>Algorand Algos</td>
-                    <td>12/25</td>
-                    <td><Button variant="primary">Bet</Button></td>
-                </tr>
-                <tr>
-                    <td>3</td>
-                    <td>Harmony Ones</td>
-                    <td>Algorand Algos</td>
-                    <td>12/25</td>
-                    <td><Button variant="primary">Bet</Button></td>
-                </tr>
+                { parsedGames.map(singleGame) }
             </tbody>
         </Table>
     );
