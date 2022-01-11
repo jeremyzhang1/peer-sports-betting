@@ -47,4 +47,43 @@
   top: 0;
   bottom: 0;
   z-index: -1;
+  filter: brightness(40%)
+}
+
+#splash-items {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#title-splash {
+    color: white;
+}
+
+#get-started-button {
+    width: 200px;
+    height: 40px;
+    border:solid 2px white;
+    border-radius: 5px;
+    background: rgba(255, 255, 255,0);
+    font-size: 16pt;
+    color: white;
+}
+
+#get-started-button:hover {
+    color: lightgray;
+    border:solid 2px lightgray;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgray;
+    text-decoration: none;
 }

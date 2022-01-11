@@ -5,6 +5,7 @@ import Web3 from 'web3';
 import Betting from './contractCode/Betting.json';
 import Game from './Game';
 import HarmonyBasketball from './utils/HarmonyBasketball.mp4'
+import HarmonyBasketballLogo from './utils/BasketballLogoLight.png'
 
 class App extends Component {
 
@@ -107,9 +108,14 @@ class App extends Component {
                             <video id='backgroundVideo' autoPlay loop muted>
                                 <source src={HarmonyBasketball} type='video/mp4' />
                             </video>
-                            <button>
-                                <Link to="/app">Get Started</Link>
-                            </button>
+                            <div id="splash-items">
+                                <img src={HarmonyBasketballLogo} alt="logo" width="30%"/>
+                                <h1 id="title-splash">Blockchain Basketball Betting</h1>
+                                <br></br>
+                                <button id="get-started-button">
+                                    <Link to="/app">Launch the App</Link>
+                                </button>
+                            </div>
                         </div>
                     } />
                 </Routes>
