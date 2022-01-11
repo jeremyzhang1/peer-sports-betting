@@ -78,6 +78,22 @@
     border:solid 2px lightgray;
 }
 
+#submit-button {
+    width: 200px;
+    height: 40px;
+    border:solid 2px black;
+    border-radius: 5px;
+    background: rgba(255, 255, 255,0);
+    font-size: 16pt;
+    color: black;
+    padding-bottom: 5px;
+}
+
+#submit-button:hover {
+    color: rgba(0,0,0,0.8);
+    border:solid 2px rgba(0,0,0,0.8);
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -86,4 +102,27 @@ a {
 a:hover {
     color: lightgray;
     text-decoration: none;
+}
+
+#submission-form {
+    /* margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+    text-align: center;
+}
+
+#background {
+    background: url("./utils/bg.jpg");
+    
+}
+
+#dark-logo {
+    padding-top: 10px;
+}
+
+h1 {
+    margin: 0 !important;
 }

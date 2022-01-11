@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { Button } from 'react-bootstrap';
 import './App.css';
 import Web3 from 'web3';
 import Betting from './contractCode/Betting.json';
 import Game from './Game';
 import HarmonyBasketball from './utils/HarmonyBasketball.mp4'
 import HarmonyBasketballLogo from './utils/BasketballLogoLight.png'
+import HarmonyBasketballLogoDark from './utils/BasketballLogo.png'
 
 class App extends Component {
 
@@ -76,32 +78,35 @@ class App extends Component {
             <Router>
                 <Routes>
                     <Route path="/app" element={
-                        <>
-                            <h1>NOT A SHADY CRYPTO SCAM</h1>
-                            <p>Blockchain Basketball</p>
-                            <p>Connected wallet address: {this.state.address}</p>
-                            <form onSubmit={this.handleSubmit}>
-                                <label>Game ID (1, 2, or 3 for debugging purposes)</label>
-                                <br />
-                                <input type="number" name="gameid"></input>
-                                <br />
-                                <label>Amount Bet (in Ether)</label>
-                                <br />
-                                <input type="number" name="betamount"></input>
-                                <br />
-                                <label>Which team? (1 for Home, 2 for Away)</label>
-                                <br />
-                                <input type="number" name="team"></input>
-                                <br />
-                                <p>
-                                    Make sure all of the fields are filled out correctly before
-                                    submitting. <br /> The form currently does not do error
-                                    checking.
-                                </p>
-                                <button type="submit">Submit Bet</button>
-                            </form>
+                        <div id="background">
+                            <div id="submission-form">
+                                <img src={HarmonyBasketballLogoDark} alt="logo" height="50px" id="dark-logo"/>
+                                <h1>Blockchain Basketball Betting</h1>
+                                <p>Connected wallet address: {this.state.address}</p>
+                                <form onSubmit={this.handleSubmit}>
+                                    <label>Game ID (1, 2, or 3 for debugging purposes)</label>
+                                    <br />
+                                    <input type="number" name="gameid"></input>
+                                    <br />
+                                    <label>Amount Bet (in Ether)</label>
+                                    <br />
+                                    <input type="number" name="betamount"></input>
+                                    <br />
+                                    <label>Which team? (1 for Home, 2 for Away)</label>
+                                    <br />
+                                    <input type="number" name="team"></input>
+                                    <br />
+                                    <p>
+                                        Make sure all of the fields are filled out correctly before
+                                        submitting. <br /> The form currently does not do error
+                                        checking.
+                                    </p>
+                                    <button type="submit" id="submit-button">Submit Bet</button>
+                                </form>
+                            </div>
+                            <br></br>
                             <Game />
-                        </>
+                        </div>
                     } />
                     <Route path="/" element={
                         <div className="App">
@@ -109,7 +114,7 @@ class App extends Component {
                                 <source src={HarmonyBasketball} type='video/mp4' />
                             </video>
                             <div id="splash-items">
-                                <img src={HarmonyBasketballLogo} alt="logo" width="30%"/>
+                                <img src={HarmonyBasketballLogo} alt="logo" width="30%" />
                                 <h1 id="title-splash">Blockchain Basketball Betting</h1>
                                 <br></br>
                                 <button id="get-started-button">
