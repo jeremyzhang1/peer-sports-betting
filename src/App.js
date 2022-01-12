@@ -85,7 +85,6 @@ class App extends Component {
             let real_url = url + page.toString()
             const response = await axios(real_url);
             let gameArr = response.data.data
-            console.log(gameArr)
             let gameLen = gameArr.length
             for (let j = 0; j < gameLen; j++) {
                 //take one game and extract specific data points

@@ -2,6 +2,8 @@
 
 To run the dapp on the web, go to https://blockchain-bball.web.app.
 
+To view the video demo, go to LINK TBD.
+
 You will need to connect a MetaMask wallet and connect it to the Harmony testnet. [Here](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet) are some instructions from Harmony that can get you started.
 
 ## About
