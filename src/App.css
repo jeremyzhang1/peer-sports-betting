@@ -36,3 +36,122 @@
     transform: rotate(360deg);
   }
 }
+
+#backgroundVideo {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  filter: brightness(40%)
+}
+
+#splash-items {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#title-splash {
+    color: white;
+}
+
+#get-started-button {
+    width: 200px;
+    height: 40px;
+    border:solid 2px white;
+    border-radius: 5px;
+    background: rgba(255, 255, 255,0);
+    font-size: 16pt;
+    color: white;
+}
+
+#get-started-button:hover {
+    color: lightgray;
+    border:solid 2px lightgray;
+}
+
+#submit-button {
+    width: 200px;
+    height: 40px;
+    border:solid 2px black;
+    border-radius: 5px;
+    background: rgba(255, 255, 255,0);
+    font-size: 16pt;
+    color: black;
+    padding-bottom: 5px;
+}
+
+#submit-button:hover {
+    color: rgba(0,0,0,0.8);
+    border:solid 2px rgba(0,0,0,0.8);
+}
+
+#launch-link {
+    color: white;
+    text-decoration: none;
+}
+
+#launch-link:hover {
+    color: lightgray;
+    text-decoration: none;
+}
+
+.formStyle {
+  outline: 0;
+  border-width: 2px;
+  border-color: black;
+  background-color: white;
+  background: transparent;
+  text-align: center;
+  font-size: large;
+  padding-left: 10px;
+  width: 200px;
+}
+
+.formStyle:hover {
+  border-color: solid #555;
+}
+
+#submission-form {
+    /* margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+    text-align: center;
+}
+
+#background {
+    background: url("./utils/bg.jpg") fixed no-repeat;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    max-height: 100vw;
+}
+
+#dark-logo {
+    padding-top: 10px;
+}
+
+h1 {
+    margin: 0 !important;
+}
+
+#contract-link, #github-link {
+    color: black;
+}
+
+#table-container {
+    padding-left: 5%;
+    padding-right: 5%;
+    overflow: auto;
+}
