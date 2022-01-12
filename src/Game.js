@@ -32,7 +32,7 @@ const Game = () => {
                 <td>{ oneGame[1] }</td>
                 <td>{ oneGame[2] }</td>
                 <td>{ oneGame[3] }</td>
-                <td>{ oneGame [4] }</td>
+                <td>{ oneGame[4] }</td>
             </tr>
         );
     

@@ -80,13 +80,13 @@ class App extends Component {
                     <Route path="/app" element={
                         <div id="background">
                             <div id="submission-form">
-                                <img src={HarmonyBasketballLogoDark} alt="logo" height="50px" id="dark-logo"/>
+                                <img src={HarmonyBasketballLogoDark} alt="logo" height="50px" id="dark-logo" />
                                 <h1>Blockchain Basketball Betting</h1>
                                 <p>Connected wallet address: {this.state.address}</p>
                                 <form onSubmit={this.handleSubmit}>
                                     <label>Game ID</label>
                                     <br />
-                                    <input type="number" name="form" className='formStyle'></input>
+                                    <input type="number" name="gameid" className='formStyle'></input>
                                     <br />
                                     <label>Amount Bet (in Ether)</label>
                                     <br />
