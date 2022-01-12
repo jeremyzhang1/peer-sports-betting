@@ -1,6 +1,5 @@
 import React from 'react';
-import { Button, Table } from 'react-bootstrap';
-
+import { Table } from 'react-bootstrap';
 
 const Game = (parsedGames) => {
     parsedGames = parsedGames["parsedGames"];

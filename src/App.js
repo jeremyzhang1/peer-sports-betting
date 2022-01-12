@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import { Button } from 'react-bootstrap';
-import gameData from './utils/gameData.json';
 import './App.css';
 import Web3 from 'web3';
 import Betting from './contractCode/Betting.json';
@@ -10,7 +8,6 @@ import HarmonyBasketball from './utils/HarmonyBasketball.mp4'
 import HarmonyBasketballLogo from './utils/BasketballLogoLight.png'
 import HarmonyBasketballLogoDark from './utils/BasketballLogo.png'
 import axios from 'axios';
-import { pick } from 'lodash';
 
 class App extends Component {
 
@@ -22,7 +19,7 @@ class App extends Component {
             address: '0x0',
             betting: {},
             games: [],
-            gameRange:[]
+            gameRange: []
         };
 
         this.handleSubmit = this.handleSubmit.bind(this)
@@ -34,7 +31,7 @@ class App extends Component {
         this.determineGames();
     }
 
-    
+
     async loadWeb3() {
         if (window.ethereum) {
             window.web3 = new Web3(window.ethereum)
@@ -82,9 +79,7 @@ class App extends Component {
         let url = "https://www.balldontlie.io/api/v1/games/?seasons[]=2021&per_page=100&start_date=2022-01-01&page="
         // to store the games for web purposes
         let parsedGames = []
-        // specifying which field we need for the website
-        let keys_to_extract = ["id","home_team","visitor_team", "date", "status"];
-        
+
         for (let i = 0; i < 7; i++) {
             let page = i + 1
             let real_url = url + page.toString()
@@ -95,32 +90,16 @@ class App extends Component {
             for (let j = 0; j < gameLen; j++) {
                 //take one game and extract specific data points
                 let one_game = gameArr[j];
-                if (one_game["status"] !== "Final"){
-                    let extracted_game = [one_game['id'], one_game['home_team']['full_name'], one_game['visitor_team']['full_name'], one_game["date"].slice(0,10), one_game['status']];
+                if (one_game["status"] !== "Final") {
+                    let extracted_game = [one_game['id'], one_game['home_team']['full_name'], one_game['visitor_team']['full_name'], one_game["date"].slice(0, 10), one_game['status']];
                     parsedGames.push(extracted_game);
                 }
             }
         }
 
-        //parse game data json and extract id, home_team, visitor_team, date
-        // let parsedData = gameData;
-        // var parsedGames = [];
-
-        // for (var i = 0, game, id, home_team, visitor_team, date, gameTime; i < parsedData.length; i++) {
-        //     game = parsedData[i];
-        //     if (game['status'] !== "Final") {
-        //         id = game['id'];
-        //         home_team = game["home_team"]["full_name"];
-        //         visitor_team = game["visitor_team"]["full_name"];
-        //         gameTime = game['status'];
-        //         date = game["date"].slice(0, 10);
-        //         parsedGames.push([id, visitor_team, home_team, date, gameTime]);
-        //     }
-        // }
-
         parsedGames.sort((a, b) => (a[0] > b[0]) ? 1 : -1);
-        this.setState({games: parsedGames});
-        this.setState({gameRange: [parsedGames[0][0], parsedGames[parsedGames.length - 1][0]]});
+        this.setState({ games: parsedGames });
+        this.setState({ gameRange: [parsedGames[0][0], parsedGames[parsedGames.length - 1][0]] });
     }
 
 
@@ -153,8 +132,8 @@ class App extends Component {
                                     <button type="submit" id="submit-button">Submit Bet</button>
                                 </form>
                             </div>
-                            <br></br>
-                            <Game parsedGames = {this.state.games}/>
+                            <br />
+                            <Game parsedGames={this.state.games} />
                         </div>
                     } />
                     <Route path="/" element={
