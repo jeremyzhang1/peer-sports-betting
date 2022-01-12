@@ -1,7 +1,7 @@
 const axios = require("axios")
 const Betting = artifacts.require('Betting')
-var _ = require('lodash');
-const fs = require('fs');
+// var _ = require('lodash');
+// const fs = require('fs');
 
 module.exports = async function(deployer) {
     await deployer.deploy(Betting);
@@ -12,9 +12,9 @@ module.exports = async function(deployer) {
     let game_ids = []
 
     // to store the games for web purposes
-    let full_games = []
-    // specifying which field we need for the website
-    let keys_to_extract = ["id","home_team","visitor_team", "date", "status"];
+    // let full_games = []
+    // // specifying which field we need for the website
+    // let keys_to_extract = ["id","home_team","visitor_team", "date", "status"];
 
     for (let i = 0; i < 7; i++) {
         let page = i + 1
@@ -23,11 +23,11 @@ module.exports = async function(deployer) {
         let gameArr = response.data.data
         let gameLen = gameArr.length
         for (let j = 0; j < gameLen; j++) {
-            //take one game and extract specific data points
-            let one_game = gameArr[j];
-            let extracted_game = _.pick(one_game, keys_to_extract);
-            //add to array of game data for website
-            full_games.push(extracted_game);
+            // //take one game and extract specific data points
+            // let one_game = gameArr[j];
+            // let extracted_game = _.pick(one_game, keys_to_extract);
+            // //add to array of game data for website
+            // full_games.push(extracted_game);
             
             //also get ids and put into another array for smart contract purposes
             let game_id = one_game['id']
@@ -36,11 +36,11 @@ module.exports = async function(deployer) {
         }
     }
     //save game data to a json file accessible by the react app
-    const gameData = JSON.stringify(full_games, null, 4);
-    fs.writeFile('migrations/../src/utils/gameData.json', gameData, (err) =>{
-        if (err)
-        throw err;
-    });
+    // const gameData = JSON.stringify(full_games, null, 4);
+    // fs.writeFile('migrations/../src/utils/gameData.json', gameData, (err) =>{
+    //     if (err)
+    //     throw err;
+    // });
     console.log("stringified successfully")
     betting.populateGames(game_ids);
 }
