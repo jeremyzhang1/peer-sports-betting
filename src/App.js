@@ -75,7 +75,7 @@ class App extends Component {
     handleSubmit(event) {
         event.preventDefault()
         this.bet(event.target.team.value, event.target.gameid.value, event.target.betamount.value)
-        alert('Bet Submitted')
+        alert('Bet Submitted -- A MetaMask window will appear. Please verify the contract address and approve the transation.')
     }
 
     async determineGames() {
@@ -131,16 +131,17 @@ class App extends Component {
                     <Route path="/app" element={
                         <div id="background">
                             <div id="submission-form">
-                                <img src={HarmonyBasketballLogoDark} alt="logo" height="50px" id="dark-logo"/>
+                                <img src={HarmonyBasketballLogoDark} alt="logo" height="50px" id="dark-logo" />
                                 <h1>Blockchain Basketball Betting</h1>
-                                <p>Connected wallet address: {this.state.address}</p>
-                                <p>{this.state.gameRange}</p>
+                                <p>Connected wallet address (refresh the page if not the correct one): {this.state.address}</p>
+                                <p>Contract address: <a id="contract-link" href="https://explorer.pops.one/address/0x8d3f00cabc107d969b09aac7373fced190f42510" target="_blank" rel='noreferrer'>0x8d3f00cabc107d969b09aac7373fced190f42510</a></p>
+                                <p>Github link: <a id="github-link" href="https://github.com/jeremyzhang1/peer-sports-betting" target="_blank" rel='noreferrer'>https://github.com/jeremyzhang1/peer-sports-betting</a></p>
                                 <form onSubmit={this.handleSubmit}>
                                     <label>Game ID</label>
                                     <br />
                                     <input type="number" name="gameid" min={this.state.gameRange[0]} max={this.state.gameRange[1]} className='formStyle'></input>
                                     <br />
-                                    <label>Amount Bet (in Ether)</label>
+                                    <label>Amount Bet (in ONE)</label>
                                     <br />
                                     <input type="number" step="0.000001" min="0" name="betamount" className='formStyle'></input>
                                     <br />
@@ -149,11 +150,6 @@ class App extends Component {
                                     <input type="number" min="1" max="2" name="team" className='formStyle'></input>
                                     <br />
                                     <br />
-                                    <p>
-                                        Make sure all of the fields are filled out correctly before
-                                        submitting. <br /> The form currently does not do error
-                                        checking.
-                                    </p>
                                     <button type="submit" id="submit-button">Submit Bet</button>
                                 </form>
                             </div>
@@ -171,7 +167,7 @@ class App extends Component {
                                 <h1 id="title-splash">Blockchain Basketball Betting</h1>
                                 <br></br>
                                 <button id="get-started-button">
-                                    <Link to="/app">Launch the App</Link>
+                                    <Link id="launch-link" to="/app">Launch the App</Link>
                                 </button>
                             </div>
                         </div>

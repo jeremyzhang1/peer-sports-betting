@@ -94,8 +94,13 @@
     border:solid 2px rgba(0,0,0,0.8);
 }
 
-a {
+#launch-link {
     color: white;
+    text-decoration: none;
+}
+
+#launch-link:hover {
+    color: lightgray;
     text-decoration: none;
 }
 
@@ -115,11 +120,6 @@ a {
   border-color: solid #555;
 }
 
-a:hover {
-    color: lightgray;
-    text-decoration: none;
-}
-
 #submission-form {
     /* margin: 0;
     position: absolute;
@@ -131,7 +131,7 @@ a:hover {
 }
 
 #background {
-    background: url("./utils/bg.jpg");
+    background: url("./utils/bg.jpg") fixed;
     background-size: 100%;
     
 }
@@ -142,4 +142,15 @@ a:hover {
 
 h1 {
     margin: 0 !important;
+}
+
+#contract-link, #github-link {
+    color: black;
+}
+
+#table-container {
+    padding-left: 5%;
+    padding-right: 5%;
+    max-height: 42.7vh;
+    overflow: auto;
 }
