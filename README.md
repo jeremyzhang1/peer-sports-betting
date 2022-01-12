@@ -1,6 +1,8 @@
 # Peer to Peer Sports Betting Dapp
 
-To run the dapp on the web, go to FINAL PROJECT LINK TBD.
+To run the dapp on the web, go to https://blockchain-bball.web.app.
+
+You will need to connect a MetaMask wallet and connect it to the Harmony testnet. [Here](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet) are some instructions from Harmony that can get you started.
 
 ## About
 A project for the [Harmony University Hackathon](https://taikai.network/en/harmonyprotocol/hackathons/hackthefuture/overview).
