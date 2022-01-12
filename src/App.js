@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { Button } from 'react-bootstrap';
+import gameData from './utils/gameData.json';
 import './App.css';
 import Web3 from 'web3';
 import Betting from './contractCode/Betting.json';
@@ -18,7 +19,8 @@ class App extends Component {
             web3: '',
             address: '0x0',
             betting: {},
-            games: {}
+            games: [],
+            gameRange:[]
         };
 
         this.handleSubmit = this.handleSubmit.bind(this)
@@ -27,8 +29,10 @@ class App extends Component {
     componentDidMount() {
         this.loadWeb3();
         this.loadUserData();
+        this.determineGames();
     }
 
+    
     async loadWeb3() {
         if (window.ethereum) {
             window.web3 = new Web3(window.ethereum)
@@ -41,7 +45,6 @@ class App extends Component {
             window.alert('Non-Ethereum browser detected. You should consider trying MetaMask!')
         }
     }
-
     async loadUserData() {
         // find the metamask account
         const web3 = window.web3;
@@ -73,6 +76,30 @@ class App extends Component {
         alert('Bet Submitted')
     }
 
+    determineGames() {
+        //parse game data json and extract id, home_team, visitor_team, date
+        let parsedData = gameData;
+        var parsedGames = [];
+
+        for (var i = 0, game, id, home_team, visitor_team, date, gameTime; i < parsedData.length; i++) {
+            game = parsedData[i];
+            if (game['status'] !== "Final") {
+                id = game['id'];
+                home_team = game["home_team"]["full_name"];
+                visitor_team = game["visitor_team"]["full_name"];
+                gameTime = game['status'];
+                date = game["date"].slice(0, 10);
+                parsedGames.push([id, visitor_team, home_team, date, gameTime]);
+            }
+        }
+
+        parsedGames.sort((a, b) => (a[0] > b[0]) ? 1 : -1);
+        console.log(parsedGames)
+        this.setState({games: parsedGames});
+        this.setState({gameRange: [parsedGames[0][0], parsedGames[parsedGames.length - 1][0]]});
+    }
+
+
     render() {
         return (
             <Router>
@@ -83,10 +110,11 @@ class App extends Component {
                                 <img src={HarmonyBasketballLogoDark} alt="logo" height="50px" id="dark-logo" />
                                 <h1>Blockchain Basketball Betting</h1>
                                 <p>Connected wallet address: {this.state.address}</p>
+                                <p>{this.state.gameRange}</p>
                                 <form onSubmit={this.handleSubmit}>
                                     <label>Game ID</label>
                                     <br />
-                                    <input type="number" name="gameid" className='formStyle'></input>
+                                    <input type="number" name="gameid" min={this.state.gameRange[0]} max={this.state.gameRange[1]} className='formStyle'></input>
                                     <br />
                                     <label>Amount Bet (in Ether)</label>
                                     <br />
@@ -106,7 +134,7 @@ class App extends Component {
                                 </form>
                             </div>
                             <br></br>
-                            <Game />
+                            <Game parsedGames = {this.state.games}/>
                         </div>
                     } />
                     <Route path="/" element={
