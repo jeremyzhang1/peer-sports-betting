@@ -78,18 +78,18 @@
     border:solid 2px lightgray;
 }
 
-#submit-button {
+#submit-button, #wallet-button {
     width: 200px;
-    height: 40px;
+    height: 30px;
     border:solid 2px black;
     border-radius: 5px;
     background: rgba(255, 255, 255,0);
-    font-size: 16pt;
+    font-size: 12pt;
     color: black;
     padding-bottom: 5px;
 }
 
-#submit-button:hover {
+#submit-button:hover, #wallet-button:hover {
     color: rgba(0,0,0,0.8);
     border:solid 2px rgba(0,0,0,0.8);
 }
@@ -121,12 +121,6 @@
 }
 
 #submission-form {
-    /* margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%); */
     text-align: center;
 }
 
@@ -146,6 +140,10 @@ h1 {
     margin: 0 !important;
 }
 
+p {
+    color: black;
+}
+
 #contract-link, #github-link {
     color: black;
 }
@@ -154,4 +152,10 @@ h1 {
     padding-left: 5%;
     padding-right: 5%;
     overflow: auto;
+}
+
+.title-banner {
+    display: inline-block;
+    align-items: center;
+    margin-top: 8px;
 }
