@@ -26,7 +26,7 @@ const Game = (parsedGames) => {
                         <th>Away Team</th>
                         <th>Home Team</th>
                         <th>Date</th>
-                        <th>Tipoff Time</th>
+                        <th>Status</th>
                     </tr>
                 </thead>
                 <tbody>
