@@ -6,7 +6,7 @@
 
 To run the dapp on the web, go to https://blockchain-bball.web.app.
 
-To view the video demo, go to LINK TBD.
+To view the video demo, go to https://youtu.be/dYdrdbDB2s0.
 
 To view slides, go to Blockchain Basketball Betting - Harmony Hackathon Presentation.pdf.
 
