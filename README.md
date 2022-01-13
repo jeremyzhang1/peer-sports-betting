@@ -11,7 +11,7 @@ Contract address: [0x8d3f00cabc107d969b09aac7373fced190f42510](https://explorer.
 
 A project for the [Harmony University Hackathon](https://taikai.network/en/harmonyprotocol/hackathons/hackthefuture/overview).
 
-Made with ❤ by Jeremy, Albert, Charles, and Ash
+Made with ❤ by Jeremy ([@jeremyzhang01](https://twitter.com/jeremyzhang01)), Albert ([@AlbertWZhang](https://twitter.com/AlbertWZhang)), Charles ([@charlesma_20](https://twitter.com/charlesma_20)), and Ash ([@ashlan_ahmed](https://twitter.com/ashlan_ahmed))
 
 ## Testnet Deployment Setup
 First, create a file called `.env` to store the mnemonic.
