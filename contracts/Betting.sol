@@ -83,8 +83,8 @@ contract Betting {
         // Enforce only the deployer/owner of the contract can call this function
         require(msg.sender == owner, "caller must be the owner");
 
-        // Create a temporary in memory array with fixed size of 1000 to store the winners, so there can be at most 1000 winners
-        address payable[1000] memory winners;
+        // Create a temporary in memory array with fixed size of 1000 to store the winners, so there can be at most 1000000 winners
+        address payable[1000000] memory winners;
 
         uint256 count = 0; // This is the count for the number of winners
         uint256 LoserBet = 0; // This will be the sum of all the losing bets
